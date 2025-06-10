@@ -1,1 +1,232 @@
-[]
+[
+  {
+    "stat": "Expected goals (xG)",
+    "home": "1.20",
+    "away": "1.09"
+  },
+  {
+    "stat": "Total shots",
+    "home": "10",
+    "away": "6"
+  },
+  {
+    "stat": "Shots on target",
+    "home": "2",
+    "away": "2"
+  },
+  {
+    "stat": "Big chances",
+    "home": "2",
+    "away": "3"
+  },
+  {
+    "stat": "Big chances missed",
+    "home": "2",
+    "away": "2"
+  },
+  {
+    "stat": "Accurate passes",
+    "home": "352 (84%)",
+    "away": "327 (80%)"
+  },
+  {
+    "stat": "Fouls committed",
+    "home": "10",
+    "away": "11"
+  },
+  {
+    "stat": "Corners",
+    "home": "7",
+    "away": "4"
+  },
+  {
+    "stat": "Shots",
+    "home": null,
+    "away": null
+  },
+  {
+    "stat": "Total shots",
+    "home": "10",
+    "away": "6"
+  },
+  {
+    "stat": "Shots off target",
+    "home": "4",
+    "away": "2"
+  },
+  {
+    "stat": "Shots on target",
+    "home": "2",
+    "away": "2"
+  },
+  {
+    "stat": "Blocked shots",
+    "home": "4",
+    "away": "2"
+  },
+  {
+    "stat": "Hit woodwork",
+    "home": "0",
+    "away": "0"
+  },
+  {
+    "stat": "Shots inside box",
+    "home": "8",
+    "away": "4"
+  },
+  {
+    "stat": "Shots outside box",
+    "home": "2",
+    "away": "2"
+  },
+  {
+    "stat": "Expected goals (xG)",
+    "home": null,
+    "away": null
+  },
+  {
+    "stat": "Expected goals (xG)",
+    "home": "1.20",
+    "away": "1.09"
+  },
+  {
+    "stat": "xG open play",
+    "home": "0.84",
+    "away": "0.46"
+  },
+  {
+    "stat": "xG set play",
+    "home": "0.35",
+    "away": "0.63"
+  },
+  {
+    "stat": "Non-penalty xG",
+    "home": "1.20",
+    "away": "1.09"
+  },
+  {
+    "stat": "xG on target (xGOT)",
+    "home": "0.12",
+    "away": "1.11"
+  },
+  {
+    "stat": "Passes",
+    "home": null,
+    "away": null
+  },
+  {
+    "stat": "Passes",
+    "home": "420",
+    "away": "409"
+  },
+  {
+    "stat": "Accurate passes",
+    "home": "352 (84%)",
+    "away": "327 (80%)"
+  },
+  {
+    "stat": "Own half",
+    "home": "179",
+    "away": "165"
+  },
+  {
+    "stat": "Opposition half",
+    "home": "173",
+    "away": "162"
+  },
+  {
+    "stat": "Accurate long balls",
+    "home": "21 (43%)",
+    "away": "13 (25%)"
+  },
+  {
+    "stat": "Accurate crosses",
+    "home": "7 (21%)",
+    "away": "1 (9%)"
+  },
+  {
+    "stat": "Throws",
+    "home": "25",
+    "away": "17"
+  },
+  {
+    "stat": "Touches in opposition box",
+    "home": "28",
+    "away": "11"
+  },
+  {
+    "stat": "Offsides",
+    "home": "5",
+    "away": "1"
+  },
+  {
+    "stat": "Discipline",
+    "home": null,
+    "away": null
+  },
+  {
+    "stat": "Yellow cards",
+    "home": "2",
+    "away": "2"
+  },
+  {
+    "stat": "Red cards",
+    "home": "0",
+    "away": "0"
+  },
+  {
+    "stat": "Defense",
+    "home": null,
+    "away": null
+  },
+  {
+    "stat": "Tackles won",
+    "home": "9 (64%)",
+    "away": "10 (67%)"
+  },
+  {
+    "stat": "Interceptions",
+    "home": "3",
+    "away": "4"
+  },
+  {
+    "stat": "Blocks",
+    "home": "2",
+    "away": "3"
+  },
+  {
+    "stat": "Clearances",
+    "home": "22",
+    "away": "36"
+  },
+  {
+    "stat": "Keeper saves",
+    "home": "1",
+    "away": "2"
+  },
+  {
+    "stat": "Duels",
+    "home": null,
+    "away": null
+  },
+  {
+    "stat": "Duels won",
+    "home": "37",
+    "away": "38"
+  },
+  {
+    "stat": "Ground duels won",
+    "home": "27 (48%)",
+    "away": "29 (52%)"
+  },
+  {
+    "stat": "Aerial duels won",
+    "home": "10 (53%)",
+    "away": "9 (47%)"
+  },
+  {
+    "stat": "Successful dribbles",
+    "home": "2 (22%)",
+    "away": "4 (31%)"
+  }
+]

@@ -40,11 +40,6 @@
     "away": "4"
   },
   {
-    "stat": "Shots",
-    "home": null,
-    "away": null
-  },
-  {
     "stat": "Total shots",
     "home": "10",
     "away": "6"
@@ -81,11 +76,6 @@
   },
   {
     "stat": "Expected goals (xG)",
-    "home": null,
-    "away": null
-  },
-  {
-    "stat": "Expected goals (xG)",
     "home": "1.20",
     "away": "1.09"
   },
@@ -108,11 +98,6 @@
     "stat": "xG on target (xGOT)",
     "home": "0.12",
     "away": "1.11"
-  },
-  {
-    "stat": "Passes",
-    "home": null,
-    "away": null
   },
   {
     "stat": "Passes",
@@ -160,11 +145,6 @@
     "away": "1"
   },
   {
-    "stat": "Discipline",
-    "home": null,
-    "away": null
-  },
-  {
     "stat": "Yellow cards",
     "home": "2",
     "away": "2"
@@ -173,11 +153,6 @@
     "stat": "Red cards",
     "home": "0",
     "away": "0"
-  },
-  {
-    "stat": "Defense",
-    "home": null,
-    "away": null
   },
   {
     "stat": "Tackles won",
@@ -203,11 +178,6 @@
     "stat": "Keeper saves",
     "home": "1",
     "away": "2"
-  },
-  {
-    "stat": "Duels",
-    "home": null,
-    "away": null
   },
   {
     "stat": "Duels won",

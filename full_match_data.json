@@ -1,0 +1,265 @@
+{
+  "match_details": {
+    "teams": {
+      "home": {
+        "name": "Nottingham Forest"
+      },
+      "away": {
+        "name": "Chelsea"
+      }
+    },
+    "score": {
+      "home": "0",
+      "away": "1"
+    },
+    "status": "Full time",
+    "datetime": "2025-05-25T15:00:00.000Z",
+    "formatted_date": "Sun, May 25, 10:00 AM",
+    "competition": {
+      "name": "Premier League Round 38",
+      "url": "/leagues/47/overview/premier-league"
+    }
+  },
+  "statistics": [
+    {
+      "Expected goals (xG)": {
+        "home": "1.20",
+        "away": "1.09"
+      }
+    },
+    {
+      "Total shots": {
+        "home": "10",
+        "away": "6"
+      }
+    },
+    {
+      "Shots on target": {
+        "home": "2",
+        "away": "2"
+      }
+    },
+    {
+      "Big chances": {
+        "home": "2",
+        "away": "3"
+      }
+    },
+    {
+      "Big chances missed": {
+        "home": "2",
+        "away": "2"
+      }
+    },
+    {
+      "Accurate passes": {
+        "home": "352 (84%)",
+        "away": "327 (80%)"
+      }
+    },
+    {
+      "Fouls committed": {
+        "home": "10",
+        "away": "11"
+      }
+    },
+    {
+      "Corners": {
+        "home": "7",
+        "away": "4"
+      }
+    },
+    {
+      "Total shots": {
+        "home": "10",
+        "away": "6"
+      }
+    },
+    {
+      "Shots off target": {
+        "home": "4",
+        "away": "2"
+      }
+    },
+    {
+      "Shots on target": {
+        "home": "2",
+        "away": "2"
+      }
+    },
+    {
+      "Blocked shots": {
+        "home": "4",
+        "away": "2"
+      }
+    },
+    {
+      "Hit woodwork": {
+        "home": "0",
+        "away": "0"
+      }
+    },
+    {
+      "Shots inside box": {
+        "home": "8",
+        "away": "4"
+      }
+    },
+    {
+      "Shots outside box": {
+        "home": "2",
+        "away": "2"
+      }
+    },
+    {
+      "Expected goals (xG)": {
+        "home": "1.20",
+        "away": "1.09"
+      }
+    },
+    {
+      "xG open play": {
+        "home": "0.84",
+        "away": "0.46"
+      }
+    },
+    {
+      "xG set play": {
+        "home": "0.35",
+        "away": "0.63"
+      }
+    },
+    {
+      "Non-penalty xG": {
+        "home": "1.20",
+        "away": "1.09"
+      }
+    },
+    {
+      "xG on target (xGOT)": {
+        "home": "0.12",
+        "away": "1.11"
+      }
+    },
+    {
+      "Passes": {
+        "home": "420",
+        "away": "409"
+      }
+    },
+    {
+      "Accurate passes": {
+        "home": "352 (84%)",
+        "away": "327 (80%)"
+      }
+    },
+    {
+      "Own half": {
+        "home": "179",
+        "away": "165"
+      }
+    },
+    {
+      "Opposition half": {
+        "home": "173",
+        "away": "162"
+      }
+    },
+    {
+      "Accurate long balls": {
+        "home": "21 (43%)",
+        "away": "13 (25%)"
+      }
+    },
+    {
+      "Accurate crosses": {
+        "home": "7 (21%)",
+        "away": "1 (9%)"
+      }
+    },
+    {
+      "Throws": {
+        "home": "25",
+        "away": "17"
+      }
+    },
+    {
+      "Touches in opposition box": {
+        "home": "28",
+        "away": "11"
+      }
+    },
+    {
+      "Offsides": {
+        "home": "5",
+        "away": "1"
+      }
+    },
+    {
+      "Yellow cards": {
+        "home": "2",
+        "away": "2"
+      }
+    },
+    {
+      "Red cards": {
+        "home": "0",
+        "away": "0"
+      }
+    },
+    {
+      "Tackles won": {
+        "home": "9 (64%)",
+        "away": "10 (67%)"
+      }
+    },
+    {
+      "Interceptions": {
+        "home": "3",
+        "away": "4"
+      }
+    },
+    {
+      "Blocks": {
+        "home": "2",
+        "away": "3"
+      }
+    },
+    {
+      "Clearances": {
+        "home": "22",
+        "away": "36"
+      }
+    },
+    {
+      "Keeper saves": {
+        "home": "1",
+        "away": "2"
+      }
+    },
+    {
+      "Duels won": {
+        "home": "37",
+        "away": "38"
+      }
+    },
+    {
+      "Ground duels won": {
+        "home": "27 (48%)",
+        "away": "29 (52%)"
+      }
+    },
+    {
+      "Aerial duels won": {
+        "home": "10 (53%)",
+        "away": "9 (47%)"
+      }
+    },
+    {
+      "Successful dribbles": {
+        "home": "2 (22%)",
+        "away": "4 (31%)"
+      }
+    }
+  ]
+}

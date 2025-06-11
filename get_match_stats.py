@@ -1,7 +1,7 @@
 import json
 from bs4 import BeautifulSoup
 
-def scrape_full_match_data(soup):
+def full_match_data(soup):
     """
     Comprehensive function that scrapes both match details and statistics
     Returns a single dictionary containing all match information
@@ -49,8 +49,8 @@ def scrape_full_match_data(soup):
             
             match_data["match_details"]["teams"]["home"] = {
                 'name': home_name.text.strip() if home_name else None,
-                'url': home_link.get('href') if home_link else None,
-                'logo': home_img.get('src') if home_img else None
+                # 'url': home_link.get('href') if home_link else None,
+                # 'logo': home_img.get('src') if home_img else None
             }
             
             # Process away team
@@ -61,8 +61,8 @@ def scrape_full_match_data(soup):
             
             match_data["match_details"]["teams"]["away"] = {
                 'name': away_name.text.strip() if away_name else None,
-                'url': away_link.get('href') if away_link else None,
-                'logo': away_img.get('src') if away_img else None
+                # 'url': away_link.get('href') if away_link else None,
+                # 'logo': away_img.get('src') if away_img else None
             }
 
         # Get score and status

@@ -6,9 +6,13 @@ def scrape_full_match_data(soup):
     Comprehensive function that scrapes both match details and statistics
     Returns a single dictionary containing all match information
     """
-    # Initialize the result dictionary
+    # Initialize the result dictionary with proper nesting
     match_data = {
-        "match_details": {},
+        "match_details": {
+            "teams": {},
+            "score": {},
+            "status": None
+        },
         "statistics": []
     }
     
@@ -30,18 +34,52 @@ def scrape_full_match_data(soup):
                     'name': league_link.text.strip(),
                     'url': league_link.get('href')
                 }
-    
-    # Get teams info
-    teams_section = soup.find('h1')
-    if teams_section:
-        teams_text = teams_section.text.strip()
-        teams = teams_text.split(' vs ')
-        if len(teams) == 2:
-            match_data["match_details"]["teams"] = {
-                'home': teams[0].split('(')[0].strip(),
-                'away': teams[1].split('(')[0].strip()
+
+    # Get teams info and score from the header section
+    header_section = soup.find('section', class_='css-154n3ly-MFHeaderFullscreenSection')
+    if header_section:
+        # Get teams
+        team_sections = header_section.find_all('div', class_=lambda x: x and 'TeamMarkup' in x)
+        if len(team_sections) == 2:
+            # Process home team
+            home_section = team_sections[0]
+            home_name = home_section.find('span', class_=lambda x: x and 'TeamNameOnTabletUp' in x)
+            home_link = home_section.find_parent('a')
+            home_img = home_section.find('img')
+            
+            match_data["match_details"]["teams"]["home"] = {
+                'name': home_name.text.strip() if home_name else None,
+                'url': home_link.get('href') if home_link else None,
+                'logo': home_img.get('src') if home_img else None
             }
-    
+            
+            # Process away team
+            away_section = team_sections[1]
+            away_name = away_section.find('span', class_=lambda x: x and 'TeamNameOnTabletUp' in x)
+            away_link = away_section.find_parent('a')
+            away_img = away_section.find('img')
+            
+            match_data["match_details"]["teams"]["away"] = {
+                'name': away_name.text.strip() if away_name else None,
+                'url': away_link.get('href') if away_link else None,
+                'logo': away_img.get('src') if away_img else None
+            }
+
+        # Get score and status
+        score_wrapper = header_section.find('div', class_='css-1cf82ng-MFHeaderStatusWrapper')
+        if score_wrapper:
+            score_element = score_wrapper.find('span', class_=lambda x: x and 'Score' in x)
+            if score_element:
+                scores = score_element.text.strip().split(' - ')
+                match_data["match_details"]["score"] = {
+                    'home': scores[0] if len(scores) > 0 else None,
+                    'away': scores[1] if len(scores) > 1 else None
+                }
+            
+            status_element = score_wrapper.find('span', class_=lambda x: x and 'StatusReason' in x)
+            if status_element:
+                match_data["match_details"]["status"] = status_element.text.strip()
+
     # Find left column containing statistics
     main_content = soup.find('div', id='__next')
     match_css = main_content.find('div', class_='css-19auws2-MatchCSS edsvb150') if main_content else None

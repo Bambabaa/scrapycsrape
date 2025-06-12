@@ -1,0 +1,568 @@
+{
+  "countries": [
+    {
+      "name": "International",
+      "code": "int",
+      "flag": "https://images.fotmob.com/image_resources/logo/teamlogo/int.png",
+      "leagues": []
+    },
+    {
+      "name": "Albania",
+      "code": "alb",
+      "flag": "https://images.fotmob.com/image_resources/logo/teamlogo/alb.png",
+      "leagues": []
+    },
+    {
+      "name": "Algeria",
+      "code": "alg",
+      "flag": "https://images.fotmob.com/image_resources/logo/teamlogo/alg.png",
+      "leagues": []
+    },
+    {
+      "name": "Argentina",
+      "code": "arg",
+      "flag": "https://images.fotmob.com/image_resources/logo/teamlogo/arg.png",
+      "leagues": []
+    },
+    {
+      "name": "Armenia",
+      "code": "arm",
+      "flag": "https://images.fotmob.com/image_resources/logo/teamlogo/arm.png",
+      "leagues": []
+    },
+    {
+      "name": "Australia",
+      "code": "aus",
+      "flag": "https://images.fotmob.com/image_resources/logo/teamlogo/aus.png",
+      "leagues": []
+    },
+    {
+      "name": "Austria",
+      "code": "aut",
+      "flag": "https://images.fotmob.com/image_resources/logo/teamlogo/aut.png",
+      "leagues": []
+    },
+    {
+      "name": "Azerbaijan",
+      "code": "aze",
+      "flag": "https://images.fotmob.com/image_resources/logo/teamlogo/aze.png",
+      "leagues": []
+    },
+    {
+      "name": "Bangladesh",
+      "code": "ban",
+      "flag": "https://images.fotmob.com/image_resources/logo/teamlogo/ban.png",
+      "leagues": []
+    },
+    {
+      "name": "Belarus",
+      "code": "blr",
+      "flag": "https://images.fotmob.com/image_resources/logo/teamlogo/blr.png",
+      "leagues": []
+    },
+    {
+      "name": "Belgium",
+      "code": "bel",
+      "flag": "https://images.fotmob.com/image_resources/logo/teamlogo/bel.png",
+      "leagues": []
+    },
+    {
+      "name": "Bolivia",
+      "code": "bol",
+      "flag": "https://images.fotmob.com/image_resources/logo/teamlogo/bol.png",
+      "leagues": []
+    },
+    {
+      "name": "Bosnia-Herzegovina",
+      "code": "bih",
+      "flag": "https://images.fotmob.com/image_resources/logo/teamlogo/bih.png",
+      "leagues": []
+    },
+    {
+      "name": "Brazil",
+      "code": "bra",
+      "flag": "https://images.fotmob.com/image_resources/logo/teamlogo/bra.png",
+      "leagues": []
+    },
+    {
+      "name": "Bulgaria",
+      "code": "bul",
+      "flag": "https://images.fotmob.com/image_resources/logo/teamlogo/bul.png",
+      "leagues": []
+    },
+    {
+      "name": "Canada",
+      "code": "can",
+      "flag": "https://images.fotmob.com/image_resources/logo/teamlogo/can.png",
+      "leagues": []
+    },
+    {
+      "name": "Chile",
+      "code": "chi",
+      "flag": "https://images.fotmob.com/image_resources/logo/teamlogo/chi.png",
+      "leagues": []
+    },
+    {
+      "name": "China",
+      "code": "chn",
+      "flag": "https://images.fotmob.com/image_resources/logo/teamlogo/chn.png",
+      "leagues": []
+    },
+    {
+      "name": "Colombia",
+      "code": "col",
+      "flag": "https://images.fotmob.com/image_resources/logo/teamlogo/col.png",
+      "leagues": []
+    },
+    {
+      "name": "Costa Rica",
+      "code": "crc",
+      "flag": "https://images.fotmob.com/image_resources/logo/teamlogo/crc.png",
+      "leagues": []
+    },
+    {
+      "name": "Croatia",
+      "code": "cro",
+      "flag": "https://images.fotmob.com/image_resources/logo/teamlogo/cro.png",
+      "leagues": []
+    },
+    {
+      "name": "Cyprus",
+      "code": "cyp",
+      "flag": "https://images.fotmob.com/image_resources/logo/teamlogo/cyp.png",
+      "leagues": []
+    },
+    {
+      "name": "Czech Republic",
+      "code": "cze",
+      "flag": "https://images.fotmob.com/image_resources/logo/teamlogo/cze.png",
+      "leagues": []
+    },
+    {
+      "name": "Denmark",
+      "code": "den",
+      "flag": "https://images.fotmob.com/image_resources/logo/teamlogo/den.png",
+      "leagues": []
+    },
+    {
+      "name": "Ecuador",
+      "code": "ecu",
+      "flag": "https://images.fotmob.com/image_resources/logo/teamlogo/ecu.png",
+      "leagues": []
+    },
+    {
+      "name": "Egypt",
+      "code": "egy",
+      "flag": "https://images.fotmob.com/image_resources/logo/teamlogo/egy.png",
+      "leagues": []
+    },
+    {
+      "name": "El Salvador",
+      "code": "slv",
+      "flag": "https://images.fotmob.com/image_resources/logo/teamlogo/slv.png",
+      "leagues": []
+    },
+    {
+      "name": "England",
+      "code": "eng",
+      "flag": "https://images.fotmob.com/image_resources/logo/teamlogo/eng.png",
+      "leagues": []
+    },
+    {
+      "name": "Estonia",
+      "code": "est",
+      "flag": "https://images.fotmob.com/image_resources/logo/teamlogo/est.png",
+      "leagues": []
+    },
+    {
+      "name": "Faroe Islands",
+      "code": "fro",
+      "flag": "https://images.fotmob.com/image_resources/logo/teamlogo/fro.png",
+      "leagues": []
+    },
+    {
+      "name": "Finland",
+      "code": "fin",
+      "flag": "https://images.fotmob.com/image_resources/logo/teamlogo/fin.png",
+      "leagues": []
+    },
+    {
+      "name": "France",
+      "code": "fra",
+      "flag": "https://images.fotmob.com/image_resources/logo/teamlogo/fra.png",
+      "leagues": []
+    },
+    {
+      "name": "Georgia",
+      "code": "geo",
+      "flag": "https://images.fotmob.com/image_resources/logo/teamlogo/geo.png",
+      "leagues": []
+    },
+    {
+      "name": "Germany",
+      "code": "ger",
+      "flag": "https://images.fotmob.com/image_resources/logo/teamlogo/ger.png",
+      "leagues": []
+    },
+    {
+      "name": "Ghana",
+      "code": "gha",
+      "flag": "https://images.fotmob.com/image_resources/logo/teamlogo/gha.png",
+      "leagues": []
+    },
+    {
+      "name": "Greece",
+      "code": "gre",
+      "flag": "https://images.fotmob.com/image_resources/logo/teamlogo/gre.png",
+      "leagues": []
+    },
+    {
+      "name": "Guatemala",
+      "code": "gua",
+      "flag": "https://images.fotmob.com/image_resources/logo/teamlogo/gua.png",
+      "leagues": []
+    },
+    {
+      "name": "Honduras",
+      "code": "hon",
+      "flag": "https://images.fotmob.com/image_resources/logo/teamlogo/hon.png",
+      "leagues": []
+    },
+    {
+      "name": "Hungary",
+      "code": "hun",
+      "flag": "https://images.fotmob.com/image_resources/logo/teamlogo/hun.png",
+      "leagues": []
+    },
+    {
+      "name": "Iceland",
+      "code": "isl",
+      "flag": "https://images.fotmob.com/image_resources/logo/teamlogo/isl.png",
+      "leagues": []
+    },
+    {
+      "name": "India",
+      "code": "ind",
+      "flag": "https://images.fotmob.com/image_resources/logo/teamlogo/ind.png",
+      "leagues": []
+    },
+    {
+      "name": "Indonesia",
+      "code": "idn",
+      "flag": "https://images.fotmob.com/image_resources/logo/teamlogo/idn.png",
+      "leagues": []
+    },
+    {
+      "name": "Iran",
+      "code": "irn",
+      "flag": "https://images.fotmob.com/image_resources/logo/teamlogo/irn.png",
+      "leagues": []
+    },
+    {
+      "name": "Iraq",
+      "code": "irq",
+      "flag": "https://images.fotmob.com/image_resources/logo/teamlogo/irq.png",
+      "leagues": []
+    },
+    {
+      "name": "Ireland",
+      "code": "irl",
+      "flag": "https://images.fotmob.com/image_resources/logo/teamlogo/irl.png",
+      "leagues": []
+    },
+    {
+      "name": "Israel",
+      "code": "isr",
+      "flag": "https://images.fotmob.com/image_resources/logo/teamlogo/isr.png",
+      "leagues": []
+    },
+    {
+      "name": "Italy",
+      "code": "ita",
+      "flag": "https://images.fotmob.com/image_resources/logo/teamlogo/ita.png",
+      "leagues": []
+    },
+    {
+      "name": "Japan",
+      "code": "jpn",
+      "flag": "https://images.fotmob.com/image_resources/logo/teamlogo/jpn.png",
+      "leagues": []
+    },
+    {
+      "name": "Kazakhstan",
+      "code": "kaz",
+      "flag": "https://images.fotmob.com/image_resources/logo/teamlogo/kaz.png",
+      "leagues": []
+    },
+    {
+      "name": "Kuwait",
+      "code": "kuw",
+      "flag": "https://images.fotmob.com/image_resources/logo/teamlogo/kuw.png",
+      "leagues": []
+    },
+    {
+      "name": "Latvia",
+      "code": "lva",
+      "flag": "https://images.fotmob.com/image_resources/logo/teamlogo/lva.png",
+      "leagues": []
+    },
+    {
+      "name": "Lithuania",
+      "code": "ltu",
+      "flag": "https://images.fotmob.com/image_resources/logo/teamlogo/ltu.png",
+      "leagues": []
+    },
+    {
+      "name": "Luxembourg",
+      "code": "lux",
+      "flag": "https://images.fotmob.com/image_resources/logo/teamlogo/lux.png",
+      "leagues": []
+    },
+    {
+      "name": "Macedonia",
+      "code": "mkd",
+      "flag": "https://images.fotmob.com/image_resources/logo/teamlogo/mkd.png",
+      "leagues": []
+    },
+    {
+      "name": "Malaysia",
+      "code": "mas",
+      "flag": "https://images.fotmob.com/image_resources/logo/teamlogo/mas.png",
+      "leagues": []
+    },
+    {
+      "name": "Mexico",
+      "code": "mex",
+      "flag": "https://images.fotmob.com/image_resources/logo/teamlogo/mex.png",
+      "leagues": []
+    },
+    {
+      "name": "Moldova",
+      "code": "mda",
+      "flag": "https://images.fotmob.com/image_resources/logo/teamlogo/mda.png",
+      "leagues": []
+    },
+    {
+      "name": "Montenegro",
+      "code": "mne",
+      "flag": "https://images.fotmob.com/image_resources/logo/teamlogo/mne.png",
+      "leagues": []
+    },
+    {
+      "name": "Morocco",
+      "code": "mar",
+      "flag": "https://images.fotmob.com/image_resources/logo/teamlogo/mar.png",
+      "leagues": []
+    },
+    {
+      "name": "Netherlands",
+      "code": "ned",
+      "flag": "https://images.fotmob.com/image_resources/logo/teamlogo/ned.png",
+      "leagues": []
+    },
+    {
+      "name": "New Zealand",
+      "code": "nzl",
+      "flag": "https://images.fotmob.com/image_resources/logo/teamlogo/nzl.png",
+      "leagues": []
+    },
+    {
+      "name": "Nigeria",
+      "code": "nga",
+      "flag": "https://images.fotmob.com/image_resources/logo/teamlogo/nga.png",
+      "leagues": []
+    },
+    {
+      "name": "Northern Ireland",
+      "code": "nir",
+      "flag": "https://images.fotmob.com/image_resources/logo/teamlogo/nir.png",
+      "leagues": []
+    },
+    {
+      "name": "Norway",
+      "code": "nor",
+      "flag": "https://images.fotmob.com/image_resources/logo/teamlogo/nor.png",
+      "leagues": []
+    },
+    {
+      "name": "Panama",
+      "code": "pan",
+      "flag": "https://images.fotmob.com/image_resources/logo/teamlogo/pan.png",
+      "leagues": []
+    },
+    {
+      "name": "Paraguay",
+      "code": "par",
+      "flag": "https://images.fotmob.com/image_resources/logo/teamlogo/par.png",
+      "leagues": []
+    },
+    {
+      "name": "Peru",
+      "code": "per",
+      "flag": "https://images.fotmob.com/image_resources/logo/teamlogo/per.png",
+      "leagues": []
+    },
+    {
+      "name": "Poland",
+      "code": "pol",
+      "flag": "https://images.fotmob.com/image_resources/logo/teamlogo/pol.png",
+      "leagues": []
+    },
+    {
+      "name": "Portugal",
+      "code": "por",
+      "flag": "https://images.fotmob.com/image_resources/logo/teamlogo/por.png",
+      "leagues": []
+    },
+    {
+      "name": "Qatar",
+      "code": "qat",
+      "flag": "https://images.fotmob.com/image_resources/logo/teamlogo/qat.png",
+      "leagues": []
+    },
+    {
+      "name": "Romania",
+      "code": "rou",
+      "flag": "https://images.fotmob.com/image_resources/logo/teamlogo/rou.png",
+      "leagues": []
+    },
+    {
+      "name": "Russia",
+      "code": "rus",
+      "flag": "https://images.fotmob.com/image_resources/logo/teamlogo/rus.png",
+      "leagues": []
+    },
+    {
+      "name": "Saudi Arabia",
+      "code": "ksa",
+      "flag": "https://images.fotmob.com/image_resources/logo/teamlogo/ksa.png",
+      "leagues": []
+    },
+    {
+      "name": "Scotland",
+      "code": "sco",
+      "flag": "https://images.fotmob.com/image_resources/logo/teamlogo/sco.png",
+      "leagues": []
+    },
+    {
+      "name": "Serbia",
+      "code": "srb",
+      "flag": "https://images.fotmob.com/image_resources/logo/teamlogo/srb.png",
+      "leagues": []
+    },
+    {
+      "name": "Singapore",
+      "code": "sin",
+      "flag": "https://images.fotmob.com/image_resources/logo/teamlogo/sin.png",
+      "leagues": []
+    },
+    {
+      "name": "Slovakia",
+      "code": "svk",
+      "flag": "https://images.fotmob.com/image_resources/logo/teamlogo/svk.png",
+      "leagues": []
+    },
+    {
+      "name": "Slovenia",
+      "code": "svn",
+      "flag": "https://images.fotmob.com/image_resources/logo/teamlogo/svn.png",
+      "leagues": []
+    },
+    {
+      "name": "South Africa",
+      "code": "rsa",
+      "flag": "https://images.fotmob.com/image_resources/logo/teamlogo/rsa.png",
+      "leagues": []
+    },
+    {
+      "name": "South Korea",
+      "code": "kor",
+      "flag": "https://images.fotmob.com/image_resources/logo/teamlogo/kor.png",
+      "leagues": []
+    },
+    {
+      "name": "Spain",
+      "code": "esp",
+      "flag": "https://images.fotmob.com/image_resources/logo/teamlogo/esp.png",
+      "leagues": []
+    },
+    {
+      "name": "Sweden",
+      "code": "swe",
+      "flag": "https://images.fotmob.com/image_resources/logo/teamlogo/swe.png",
+      "leagues": []
+    },
+    {
+      "name": "Switzerland",
+      "code": "sui",
+      "flag": "https://images.fotmob.com/image_resources/logo/teamlogo/sui.png",
+      "leagues": []
+    },
+    {
+      "name": "Tanzania",
+      "code": "tan",
+      "flag": "https://images.fotmob.com/image_resources/logo/teamlogo/tan.png",
+      "leagues": []
+    },
+    {
+      "name": "Thailand",
+      "code": "tha",
+      "flag": "https://images.fotmob.com/image_resources/logo/teamlogo/tha.png",
+      "leagues": []
+    },
+    {
+      "name": "Tunisia",
+      "code": "tun",
+      "flag": "https://images.fotmob.com/image_resources/logo/teamlogo/tun.png",
+      "leagues": []
+    },
+    {
+      "name": "Türkiye",
+      "code": "tur",
+      "flag": "https://images.fotmob.com/image_resources/logo/teamlogo/tur.png",
+      "leagues": []
+    },
+    {
+      "name": "Ukraine",
+      "code": "ukr",
+      "flag": "https://images.fotmob.com/image_resources/logo/teamlogo/ukr.png",
+      "leagues": []
+    },
+    {
+      "name": "United Arab Emirates",
+      "code": "uae",
+      "flag": "https://images.fotmob.com/image_resources/logo/teamlogo/uae.png",
+      "leagues": []
+    },
+    {
+      "name": "United States",
+      "code": "usa",
+      "flag": "https://images.fotmob.com/image_resources/logo/teamlogo/usa.png",
+      "leagues": []
+    },
+    {
+      "name": "Uruguay",
+      "code": "uru",
+      "flag": "https://images.fotmob.com/image_resources/logo/teamlogo/uru.png",
+      "leagues": []
+    },
+    {
+      "name": "Venezuela",
+      "code": "ven",
+      "flag": "https://images.fotmob.com/image_resources/logo/teamlogo/ven.png",
+      "leagues": []
+    },
+    {
+      "name": "Vietnam",
+      "code": "vie",
+      "flag": "https://images.fotmob.com/image_resources/logo/teamlogo/vie.png",
+      "leagues": []
+    },
+    {
+      "name": "Wales",
+      "code": "wal",
+      "flag": "https://images.fotmob.com/image_resources/logo/teamlogo/wal.png",
+      "leagues": []
+    }
+  ]
+}

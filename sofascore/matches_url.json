@@ -1,0 +1,226 @@
+[
+  {
+    "url": "https://www.sofascore.com/football/match/inter-miami-cf-al-ahly-fc/kNcsccKc#id:13193616",
+    "id": "13193616",
+    "group": "FIFA Club World Cup, Group A",
+    "time": "14/06/25",
+    "home_team": {
+      "name": "Al Ahly",
+      "logo": "https://img.sofascore.com/api/v1/team/6910/image/small"
+    },
+    "away_team": {
+      "name": "Inter Miami",
+      "logo": "https://img.sofascore.com/api/v1/team/337602/image/small"
+    }
+  },
+  {
+    "url": "https://www.sofascore.com/football/match/auckland-city-fc-bayern-munchen/xdbsjNc#id:13200279",
+    "id": "13200279",
+    "group": "FIFA Club World Cup, Group C",
+    "time": "11:00",
+    "home_team": {
+      "name": "Bayern",
+      "logo": "https://img.sofascore.com/api/v1/team/2672/image/small"
+    },
+    "away_team": {
+      "name": "Auckland City",
+      "logo": "https://img.sofascore.com/api/v1/team/6909/image/small"
+    }
+  },
+  {
+    "url": "https://www.sofascore.com/football/match/atletico-madrid-paris-saint-germain/UHsLgb#id:13200221",
+    "id": "13200221",
+    "group": "FIFA Club World Cup, Group B",
+    "time": "14:00",
+    "home_team": {
+      "name": "PSG",
+      "logo": "https://img.sofascore.com/api/v1/team/1644/image/small"
+    },
+    "away_team": {
+      "name": "Atl. Madrid",
+      "logo": "https://img.sofascore.com/api/v1/team/2836/image/small"
+    }
+  },
+  {
+    "url": "https://www.sofascore.com/football/match/fc-porto-palmeiras/nOsckb#id:13200213",
+    "id": "13200213",
+    "group": "FIFA Club World Cup, Group A",
+    "time": "17:00",
+    "home_team": {
+      "name": "Palmeiras",
+      "logo": "https://img.sofascore.com/api/v1/team/1963/image/small"
+    },
+    "away_team": {
+      "name": "Porto",
+      "logo": "https://img.sofascore.com/api/v1/team/3002/image/small"
+    }
+  },
+  {
+    "url": "https://www.sofascore.com/football/match/seattle-sounders-fc-botafogo/iOsjPi#id:13200234",
+    "id": "13200234",
+    "group": "FIFA Club World Cup, Group B",
+    "time": "21:00",
+    "home_team": {
+      "name": "Botafogo",
+      "logo": "https://img.sofascore.com/api/v1/team/1958/image/small"
+    },
+    "away_team": {
+      "name": "Seattle",
+      "logo": "https://img.sofascore.com/api/v1/team/22009/image/small"
+    }
+  },
+  {
+    "url": "https://www.sofascore.com/football/match/winner-of-qualification-playoffs-chelsea/NsaTjc#id:13905339",
+    "id": "13905339",
+    "group": "FIFA Club World Cup, Group D",
+    "time": "16/06/25",
+    "home_team": {
+      "name": "Chelsea",
+      "logo": "https://img.sofascore.com/api/v1/team/38/image/small"
+    },
+    "away_team": {
+      "name": "Los Angeles",
+      "logo": "https://img.sofascore.com/api/v1/team/274650/image/small"
+    }
+  },
+  {
+    "url": "https://www.sofascore.com/football/match/boca-juniors-benfica/gkbscob#id:13200247",
+    "id": "13200247",
+    "group": "FIFA Club World Cup, Group C",
+    "time": "16/06/25",
+    "home_team": {
+      "name": "Boca Juniors",
+      "logo": "https://img.sofascore.com/api/v1/team/3202/image/small"
+    },
+    "away_team": {
+      "name": "Benfica",
+      "logo": "https://img.sofascore.com/api/v1/team/3006/image/small"
+    }
+  },
+  {
+    "url": "https://www.sofascore.com/football/match/esperance-tunis-flamengo/GucsDRy#id:13200282",
+    "id": "13200282",
+    "group": "FIFA Club World Cup, Group D",
+    "time": "16/06/25",
+    "home_team": {
+      "name": "Flamengo",
+      "logo": "https://img.sofascore.com/api/v1/team/5981/image/small"
+    },
+    "away_team": {
+      "name": "Espérance",
+      "logo": "https://img.sofascore.com/api/v1/team/59628/image/small"
+    }
+  },
+  {
+    "url": "https://www.sofascore.com/football/match/borussia-dortmund-fluminense/lOsydb#id:13200230",
+    "id": "13200230",
+    "group": "FIFA Club World Cup, Group F",
+    "time": "17/06/25",
+    "home_team": {
+      "name": "Fluminense",
+      "logo": "https://img.sofascore.com/api/v1/team/1961/image/small"
+    },
+    "away_team": {
+      "name": "Dortmund",
+      "logo": "https://img.sofascore.com/api/v1/team/2673/image/small"
+    }
+  },
+  {
+    "url": "https://www.sofascore.com/football/match/river-plate-urawa-red-diamonds/Vmbslob#id:13200286",
+    "id": "13200286",
+    "group": "FIFA Club World Cup, Group E",
+    "time": "17/06/25",
+    "home_team": {
+      "name": "River Plate",
+      "logo": "https://img.sofascore.com/api/v1/team/3211/image/small"
+    },
+    "away_team": {
+      "name": "Urawa Reds",
+      "logo": "https://img.sofascore.com/api/v1/team/3145/image/small"
+    }
+  },
+  {
+    "url": "https://www.sofascore.com/football/match/mamelodi-sundowns-ulsan-hd/dddspdd#id:13200289",
+    "id": "13200289",
+    "group": "FIFA Club World Cup, Group F",
+    "time": "17/06/25",
+    "home_team": {
+      "name": "Ulsan",
+      "logo": "https://img.sofascore.com/api/v1/team/7653/image/small"
+    },
+    "away_team": {
+      "name": "Sundowns",
+      "logo": "https://img.sofascore.com/api/v1/team/7665/image/small"
+    }
+  },
+  {
+    "url": "https://www.sofascore.com/football/match/inter-cf-monterrey/HNsXdb#id:13200253",
+    "id": "13200253",
+    "group": "FIFA Club World Cup, Group E",
+    "time": "17/06/25",
+    "home_team": {
+      "name": "Monterrey",
+      "logo": "https://img.sofascore.com/api/v1/team/1932/image/small"
+    },
+    "away_team": {
+      "name": "Inter",
+      "logo": "https://img.sofascore.com/api/v1/team/2697/image/small"
+    }
+  },
+  {
+    "url": "https://www.sofascore.com/football/match/wydad-casablanca-manchester-city/rstAo#id:13200275",
+    "id": "13200275",
+    "group": "FIFA Club World Cup, Group G",
+    "time": "18/06/25",
+    "home_team": {
+      "name": "Man City",
+      "logo": "https://img.sofascore.com/api/v1/team/17/image/small"
+    },
+    "away_team": {
+      "name": "WAC",
+      "logo": "https://img.sofascore.com/api/v1/team/36268/image/small"
+    }
+  },
+  {
+    "url": "https://www.sofascore.com/football/match/al-hilal-real-madrid/EgbsVMi#id:13200270",
+    "id": "13200270",
+    "group": "FIFA Club World Cup, Group H",
+    "time": "18/06/25",
+    "home_team": {
+      "name": "Real Madrid",
+      "logo": "https://img.sofascore.com/api/v1/team/2829/image/small"
+    },
+    "away_team": {
+      "name": "Al-Hilal",
+      "logo": "https://img.sofascore.com/api/v1/team/21895/image/small"
+    }
+  },
+  {
+    "url": "https://www.sofascore.com/football/match/red-bull-salzburg-cf-pachuca/LNsWP#id:13200296",
+    "id": "13200296",
+    "group": "Al-Hilal",
+    "time": "18/06/25",
+    "home_team": {
+      "name": "Pachuca",
+      "logo": "https://img.sofascore.com/api/v1/team/1936/image/small"
+    },
+    "away_team": {
+      "name": "RB Salzburg",
+      "logo": "https://img.sofascore.com/api/v1/team/2046/image/small"
+    }
+  },
+  {
+    "url": "https://www.sofascore.com/football/match/al-ain-juventus/MdbsHQo#id:13200293",
+    "id": "13200293",
+    "group": "FIFA Club World Cup, Group G",
+    "time": "18/06/25",
+    "home_team": {
+      "name": "Al-Ain",
+      "logo": "https://img.sofascore.com/api/v1/team/37082/image/small"
+    },
+    "away_team": {
+      "name": "Juventus",
+      "logo": "https://img.sofascore.com/api/v1/team/2687/image/small"
+    }
+  }
+]

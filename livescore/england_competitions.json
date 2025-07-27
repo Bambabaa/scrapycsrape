@@ -1,0 +1,414 @@
+{
+  "success": true,
+  "data": {
+    "competition": [
+      {
+        "id": "77",
+        "name": "Championship",
+        "is_league": "1",
+        "is_cup": "0",
+        "tier": "2",
+        "has_groups": "1",
+        "active": "1",
+        "national_teams_only": "0",
+        "countries": [
+          {
+            "id": "19",
+            "name": "England",
+            "flag": "ENG.png",
+            "fifa_code": "ENG",
+            "uefa_code": "ENG",
+            "is_real": "1"
+          }
+        ],
+        "federations": [],
+        "season": {
+          "id": "56",
+          "name": "2025/2026",
+          "start": "2025-07-01",
+          "end": "2026-06-30"
+        }
+      },
+      {
+        "id": "149",
+        "name": "Community Shield",
+        "is_league": "0",
+        "is_cup": "1",
+        "tier": "0",
+        "has_groups": "0",
+        "active": "1",
+        "national_teams_only": "0",
+        "countries": [
+          {
+            "id": "19",
+            "name": "England",
+            "flag": "ENG.png",
+            "fifa_code": "ENG",
+            "uefa_code": "ENG",
+            "is_real": "1"
+          },
+          {
+            "id": "30",
+            "name": "Wales",
+            "flag": "WAL.png",
+            "fifa_code": "WAL",
+            "uefa_code": "WAL",
+            "is_real": "1"
+          }
+        ],
+        "federations": [],
+        "season": {
+          "id": "56",
+          "name": "2025/2026",
+          "start": "2025-07-01",
+          "end": "2026-06-30"
+        }
+      },
+      {
+        "id": "150",
+        "name": "EFL Cup",
+        "is_league": "0",
+        "is_cup": "1",
+        "tier": "0",
+        "has_groups": "0",
+        "active": "1",
+        "national_teams_only": "0",
+        "countries": [
+          {
+            "id": "19",
+            "name": "England",
+            "flag": "ENG.png",
+            "fifa_code": "ENG",
+            "uefa_code": "ENG",
+            "is_real": "1"
+          },
+          {
+            "id": "30",
+            "name": "Wales",
+            "flag": "WAL.png",
+            "fifa_code": "WAL",
+            "uefa_code": "WAL",
+            "is_real": "1"
+          }
+        ],
+        "federations": [],
+        "season": {
+          "id": "56",
+          "name": "2025/2026",
+          "start": "2025-07-01",
+          "end": "2026-06-30"
+        }
+      },
+      {
+        "id": "151",
+        "name": "EFL Trophy",
+        "is_league": "0",
+        "is_cup": "1",
+        "tier": "0",
+        "has_groups": "1",
+        "active": "1",
+        "national_teams_only": "0",
+        "countries": [
+          {
+            "id": "19",
+            "name": "England",
+            "flag": "ENG.png",
+            "fifa_code": "ENG",
+            "uefa_code": "ENG",
+            "is_real": "1"
+          },
+          {
+            "id": "30",
+            "name": "Wales",
+            "flag": "WAL.png",
+            "fifa_code": "WAL",
+            "uefa_code": "WAL",
+            "is_real": "1"
+          }
+        ],
+        "federations": [],
+        "season": {
+          "id": "53",
+          "name": "2024/2025",
+          "start": "2024-07-01",
+          "end": "2025-06-30"
+        }
+      },
+      {
+        "id": "152",
+        "name": "FA Cup",
+        "is_league": "0",
+        "is_cup": "1",
+        "tier": "0",
+        "has_groups": "0",
+        "active": "1",
+        "national_teams_only": "0",
+        "countries": [
+          {
+            "id": "19",
+            "name": "England",
+            "flag": "ENG.png",
+            "fifa_code": "ENG",
+            "uefa_code": "ENG",
+            "is_real": "1"
+          },
+          {
+            "id": "30",
+            "name": "Wales",
+            "flag": "WAL.png",
+            "fifa_code": "WAL",
+            "uefa_code": "WAL",
+            "is_real": "1"
+          }
+        ],
+        "federations": [],
+        "season": {
+          "id": "56",
+          "name": "2025/2026",
+          "start": "2025-07-01",
+          "end": "2026-06-30"
+        }
+      },
+      {
+        "id": "153",
+        "name": "FA Trophy",
+        "is_league": "0",
+        "is_cup": "1",
+        "tier": "0",
+        "has_groups": "0",
+        "active": "1",
+        "national_teams_only": "0",
+        "countries": [
+          {
+            "id": "19",
+            "name": "England",
+            "flag": "ENG.png",
+            "fifa_code": "ENG",
+            "uefa_code": "ENG",
+            "is_real": "1"
+          },
+          {
+            "id": "30",
+            "name": "Wales",
+            "flag": "WAL.png",
+            "fifa_code": "WAL",
+            "uefa_code": "WAL",
+            "is_real": "1"
+          }
+        ],
+        "federations": [],
+        "season": {
+          "id": "56",
+          "name": "2025/2026",
+          "start": "2025-07-01",
+          "end": "2026-06-30"
+        }
+      },
+      {
+        "id": "82",
+        "name": "League 1",
+        "is_league": "1",
+        "is_cup": "0",
+        "tier": "3",
+        "has_groups": "1",
+        "active": "1",
+        "national_teams_only": "0",
+        "countries": [
+          {
+            "id": "19",
+            "name": "England",
+            "flag": "ENG.png",
+            "fifa_code": "ENG",
+            "uefa_code": "ENG",
+            "is_real": "1"
+          }
+        ],
+        "federations": [],
+        "season": {
+          "id": "53",
+          "name": "2024/2025",
+          "start": "2024-07-01",
+          "end": "2025-06-30"
+        }
+      },
+      {
+        "id": "83",
+        "name": "League 2",
+        "is_league": "1",
+        "is_cup": "0",
+        "tier": "4",
+        "has_groups": "1",
+        "active": "1",
+        "national_teams_only": "0",
+        "countries": [
+          {
+            "id": "19",
+            "name": "England",
+            "flag": "ENG.png",
+            "fifa_code": "ENG",
+            "uefa_code": "ENG",
+            "is_real": "1"
+          }
+        ],
+        "federations": [],
+        "season": {
+          "id": "53",
+          "name": "2024/2025",
+          "start": "2024-07-01",
+          "end": "2025-06-30"
+        }
+      },
+      {
+        "id": "154",
+        "name": "National League",
+        "is_league": "1",
+        "is_cup": "0",
+        "tier": "5",
+        "has_groups": "1",
+        "active": "1",
+        "national_teams_only": "0",
+        "countries": [
+          {
+            "id": "19",
+            "name": "England",
+            "flag": "ENG.png",
+            "fifa_code": "ENG",
+            "uefa_code": "ENG",
+            "is_real": "1"
+          },
+          {
+            "id": "30",
+            "name": "Wales",
+            "flag": "WAL.png",
+            "fifa_code": "WAL",
+            "uefa_code": "WAL",
+            "is_real": "1"
+          }
+        ],
+        "federations": [],
+        "season": {
+          "id": "56",
+          "name": "2025/2026",
+          "start": "2025-07-01",
+          "end": "2026-06-30"
+        }
+      },
+      {
+        "id": "155",
+        "name": "National League North / South",
+        "is_league": "1",
+        "is_cup": "0",
+        "tier": "6",
+        "has_groups": "1",
+        "active": "1",
+        "national_teams_only": "0",
+        "countries": [
+          {
+            "id": "19",
+            "name": "England",
+            "flag": "ENG.png",
+            "fifa_code": "ENG",
+            "uefa_code": "ENG",
+            "is_real": "1"
+          },
+          {
+            "id": "30",
+            "name": "Wales",
+            "flag": "WAL.png",
+            "fifa_code": "WAL",
+            "uefa_code": "WAL",
+            "is_real": "1"
+          }
+        ],
+        "federations": [],
+        "season": {
+          "id": "56",
+          "name": "2025/2026",
+          "start": "2025-07-01",
+          "end": "2026-06-30"
+        }
+      },
+      {
+        "id": "487",
+        "name": "Non Premier League",
+        "is_league": "1",
+        "is_cup": "0",
+        "tier": "7",
+        "has_groups": "1",
+        "active": "0",
+        "national_teams_only": "0",
+        "countries": [
+          {
+            "id": "19",
+            "name": "England",
+            "flag": "ENG.png",
+            "fifa_code": "ENG",
+            "uefa_code": "ENG",
+            "is_real": "1"
+          }
+        ],
+        "federations": [],
+        "season": {
+          "id": "14",
+          "name": "2022/2023",
+          "start": "2022-07-01",
+          "end": "2023-06-30"
+        }
+      },
+      {
+        "id": "2",
+        "name": "Premier League",
+        "is_league": "1",
+        "is_cup": "0",
+        "tier": "1",
+        "has_groups": "1",
+        "active": "1",
+        "national_teams_only": "0",
+        "countries": [
+          {
+            "id": "19",
+            "name": "England",
+            "flag": "ENG.png",
+            "fifa_code": "ENG",
+            "uefa_code": "ENG",
+            "is_real": "1"
+          }
+        ],
+        "federations": [],
+        "season": {
+          "id": "56",
+          "name": "2025/2026",
+          "start": "2025-07-01",
+          "end": "2026-06-30"
+        }
+      },
+      {
+        "id": "500",
+        "name": "Premier League Summer Series",
+        "is_league": "1",
+        "is_cup": "0",
+        "tier": "0",
+        "has_groups": "1",
+        "active": "1",
+        "national_teams_only": "0",
+        "countries": [
+          {
+            "id": "19",
+            "name": "England",
+            "flag": "ENG.png",
+            "fifa_code": "ENG",
+            "uefa_code": "ENG",
+            "is_real": "1"
+          }
+        ],
+        "federations": [],
+        "season": {
+          "id": "54",
+          "name": "2025",
+          "start": "2025-01-01",
+          "end": "2025-12-31"
+        }
+      }
+    ]
+  }
+}

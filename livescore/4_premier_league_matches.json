@@ -1,0 +1,2318 @@
+{
+  "success": true,
+  "data": {
+    "match": [
+      {
+        "date": "2025-05-25",
+        "away": {
+          "logo": "https://cdn.live-score-api.com/teams/dcf6a33371938f4632f434322e544d90.png",
+          "id": 3,
+          "name": "Crystal Palace",
+          "country_id": 19,
+          "stadium": "Selhurst Park"
+        },
+        "scheduled": "15:00",
+        "last_changed": "2025-05-25 18:54:50",
+        "group_id": 3385,
+        "location": "Anfield",
+        "status": "FINISHED",
+        "fixture_id": 1699380,
+        "round": "38",
+        "home": {
+          "logo": "https://cdn.live-score-api.com/teams/c151770f30bcb20b91d6c3f1e3310b75.png",
+          "id": 7,
+          "name": "Liverpool",
+          "country_id": 19,
+          "stadium": "Anfield"
+        },
+        "id": 630632,
+        "federation": null,
+        "country": {
+          "is_real": true,
+          "name": "England",
+          "id": 19,
+          "uefa_code": "ENG",
+          "fifa_code": "ENG",
+          "flag": "ENG.png"
+        },
+        "time": "FT",
+        "added": "2025-05-25 14:46:44",
+        "competition": {
+          "id": 2,
+          "active": true,
+          "has_groups": true,
+          "is_cup": false,
+          "tier": 1,
+          "name": "Premier League",
+          "is_league": true,
+          "national_teams_only": false
+        },
+        "odds": {
+          "pre": {
+            "1": 1.36,
+            "2": 7,
+            "X": 6.75
+          },
+          "live": {
+            "1": null,
+            "2": null,
+            "X": null
+          }
+        },
+        "outcomes": {
+          "half_time": "2",
+          "full_time": "X",
+          "extra_time": null,
+          "penalty_shootout": null
+        },
+        "scores": {
+          "score": "1 - 1",
+          "ht_score": "0 - 1",
+          "ft_score": "1 - 1",
+          "et_score": "",
+          "ps_score": ""
+        },
+        "urls": {
+          "events": "https://livescore-api.com/api-client/scores/events.json?id=630632",
+          "statistics": "https://livescore-api.com/api-client/matches/stats.json?match_id=630632",
+          "lineups": "https://livescore-api.com/api-client/matches/lineups.json?match_id=630632",
+          "head2head": "https://livescore-api.com/api-client/teams/head2head.json?team1_id=7&team2_id=3"
+        }
+      },
+      {
+        "date": "2025-05-25",
+        "away": {
+          "logo": "https://cdn.live-score-api.com/teams/e2f0434e934362825290284856543313.png",
+          "id": 489,
+          "name": "Brentford",
+          "country_id": 19,
+          "stadium": "Griffin Park"
+        },
+        "scheduled": "15:00",
+        "last_changed": "2025-05-25 16:55:57",
+        "group_id": 3385,
+        "location": "Molineux Stadium",
+        "status": "FINISHED",
+        "fixture_id": 1699386,
+        "round": "38",
+        "home": {
+          "logo": "https://cdn.live-score-api.com/teams/6735c6b2b70bc3a319d0fec6263c3e0e.png",
+          "id": 497,
+          "name": "Wolverhampton Wanderers",
+          "country_id": 19,
+          "stadium": "Molineux Stadium"
+        },
+        "id": 630631,
+        "federation": null,
+        "country": {
+          "is_real": true,
+          "name": "England",
+          "id": 19,
+          "uefa_code": "ENG",
+          "fifa_code": "ENG",
+          "flag": "ENG.png"
+        },
+        "time": "FT",
+        "added": "2025-05-25 14:46:43",
+        "competition": {
+          "id": 2,
+          "active": true,
+          "has_groups": true,
+          "is_cup": false,
+          "tier": 1,
+          "name": "Premier League",
+          "is_league": true,
+          "national_teams_only": false
+        },
+        "odds": {
+          "pre": {
+            "1": 3,
+            "2": 2.35,
+            "X": 3.75
+          },
+          "live": {
+            "1": null,
+            "2": null,
+            "X": null
+          }
+        },
+        "outcomes": {
+          "half_time": "2",
+          "full_time": "X",
+          "extra_time": null,
+          "penalty_shootout": null
+        },
+        "scores": {
+          "score": "1 - 1",
+          "ht_score": "0 - 1",
+          "ft_score": "1 - 1",
+          "et_score": "",
+          "ps_score": ""
+        },
+        "urls": {
+          "events": "https://livescore-api.com/api-client/scores/events.json?id=630631",
+          "statistics": "https://livescore-api.com/api-client/matches/stats.json?match_id=630631",
+          "lineups": "https://livescore-api.com/api-client/matches/lineups.json?match_id=630631",
+          "head2head": "https://livescore-api.com/api-client/teams/head2head.json?team1_id=497&team2_id=489"
+        }
+      },
+      {
+        "date": "2025-05-25",
+        "away": {
+          "logo": "https://cdn.live-score-api.com/teams/c661a5950a4384c45c11aa9e493a4bfc.png",
+          "id": 18,
+          "name": "Arsenal",
+          "country_id": 19,
+          "stadium": "Emirates Stadium"
+        },
+        "scheduled": "14:59",
+        "last_changed": "2025-05-25 16:58:42",
+        "group_id": 3385,
+        "location": "St. Mary's Stadium",
+        "status": "FINISHED",
+        "fixture_id": 1699384,
+        "round": "38",
+        "home": {
+          "logo": "https://cdn.live-score-api.com/teams/a3dc8456c788a48000d518494d118492.png",
+          "id": 4,
+          "name": "Southampton",
+          "country_id": 19,
+          "stadium": "St. Mary's Stadium"
+        },
+        "id": 630630,
+        "federation": null,
+        "country": {
+          "is_real": true,
+          "name": "England",
+          "id": 19,
+          "uefa_code": "ENG",
+          "fifa_code": "ENG",
+          "flag": "ENG.png"
+        },
+        "time": "FT",
+        "added": "2025-05-25 14:46:43",
+        "competition": {
+          "id": 2,
+          "active": true,
+          "has_groups": true,
+          "is_cup": false,
+          "tier": 1,
+          "name": "Premier League",
+          "is_league": true,
+          "national_teams_only": false
+        },
+        "odds": {
+          "pre": {
+            "1": 12.5,
+            "2": 1.26,
+            "X": 6.75
+          },
+          "live": {
+            "1": null,
+            "2": null,
+            "X": null
+          }
+        },
+        "outcomes": {
+          "half_time": "2",
+          "full_time": "2",
+          "extra_time": null,
+          "penalty_shootout": null
+        },
+        "scores": {
+          "score": "1 - 2",
+          "ht_score": "0 - 1",
+          "ft_score": "1 - 2",
+          "et_score": "",
+          "ps_score": ""
+        },
+        "urls": {
+          "events": "https://livescore-api.com/api-client/scores/events.json?id=630630",
+          "statistics": "https://livescore-api.com/api-client/matches/stats.json?match_id=630630",
+          "lineups": "https://livescore-api.com/api-client/matches/lineups.json?match_id=630630",
+          "head2head": "https://livescore-api.com/api-client/teams/head2head.json?team1_id=4&team2_id=18"
+        }
+      },
+      {
+        "date": "2025-05-25",
+        "away": {
+          "logo": "https://cdn.live-score-api.com/teams/36506949f2faab82758e06690768ce39.png",
+          "id": 2,
+          "name": "Brighton & Hove Albion",
+          "country_id": 19,
+          "stadium": "The American Express Community Stadium"
+        },
+        "scheduled": "15:00",
+        "last_changed": "2025-05-25 16:58:44",
+        "group_id": 3385,
+        "location": "Tottenham Hotspur Stadium",
+        "status": "FINISHED",
+        "fixture_id": 1699385,
+        "round": "38",
+        "home": {
+          "logo": "https://cdn.live-score-api.com/teams/0f1036cdcfeecfe0d93317be589d7094.png",
+          "id": 15,
+          "name": "Tottenham Hotspur",
+          "country_id": 19,
+          "stadium": "Tottenham Hotspur Stadium"
+        },
+        "id": 630628,
+        "federation": null,
+        "country": {
+          "is_real": true,
+          "name": "England",
+          "id": 19,
+          "uefa_code": "ENG",
+          "fifa_code": "ENG",
+          "flag": "ENG.png"
+        },
+        "time": "FT",
+        "added": "2025-05-25 14:46:42",
+        "competition": {
+          "id": 2,
+          "active": true,
+          "has_groups": true,
+          "is_cup": false,
+          "tier": 1,
+          "name": "Premier League",
+          "is_league": true,
+          "national_teams_only": false
+        },
+        "odds": {
+          "pre": {
+            "1": 3.75,
+            "2": 1.95,
+            "X": 4.1
+          },
+          "live": {
+            "1": null,
+            "2": null,
+            "X": null
+          }
+        },
+        "outcomes": {
+          "half_time": "1",
+          "full_time": "2",
+          "extra_time": null,
+          "penalty_shootout": null
+        },
+        "scores": {
+          "score": "1 - 4",
+          "ht_score": "1 - 0",
+          "ft_score": "1 - 4",
+          "et_score": "",
+          "ps_score": ""
+        },
+        "urls": {
+          "events": "https://livescore-api.com/api-client/scores/events.json?id=630628",
+          "statistics": "https://livescore-api.com/api-client/matches/stats.json?match_id=630628",
+          "lineups": "https://livescore-api.com/api-client/matches/lineups.json?match_id=630628",
+          "head2head": "https://livescore-api.com/api-client/teams/head2head.json?team1_id=15&team2_id=2"
+        }
+      },
+      {
+        "date": "2025-05-25",
+        "away": {
+          "logo": "https://cdn.live-score-api.com/teams/bd1ac9fa6ba642a592e73c568d82fb52.png",
+          "id": 20,
+          "name": "Everton",
+          "country_id": 19,
+          "stadium": "Goodison Park"
+        },
+        "scheduled": "15:00",
+        "last_changed": "2025-05-25 17:01:49",
+        "group_id": 3385,
+        "location": "St. James' Park",
+        "status": "FINISHED",
+        "fixture_id": 1699382,
+        "round": "38",
+        "home": {
+          "logo": "https://cdn.live-score-api.com/teams/74c78dfe9e37a2d76098d2ee3cf9ded1.png",
+          "id": 9,
+          "name": "Newcastle United",
+          "country_id": 19,
+          "stadium": "St. James' Park"
+        },
+        "id": 630627,
+        "federation": null,
+        "country": {
+          "is_real": true,
+          "name": "England",
+          "id": 19,
+          "uefa_code": "ENG",
+          "fifa_code": "ENG",
+          "flag": "ENG.png"
+        },
+        "time": "FT",
+        "added": "2025-05-25 14:46:41",
+        "competition": {
+          "id": 2,
+          "active": true,
+          "has_groups": true,
+          "is_cup": false,
+          "tier": 1,
+          "name": "Premier League",
+          "is_league": true,
+          "national_teams_only": false
+        },
+        "odds": {
+          "pre": {
+            "1": 1.26,
+            "2": 12.5,
+            "X": 6.75
+          },
+          "live": {
+            "1": null,
+            "2": null,
+            "X": null
+          }
+        },
+        "outcomes": {
+          "half_time": "X",
+          "full_time": "2",
+          "extra_time": null,
+          "penalty_shootout": null
+        },
+        "scores": {
+          "score": "0 - 1",
+          "ht_score": "0 - 0",
+          "ft_score": "0 - 1",
+          "et_score": "",
+          "ps_score": ""
+        },
+        "urls": {
+          "events": "https://livescore-api.com/api-client/scores/events.json?id=630627",
+          "statistics": "https://livescore-api.com/api-client/matches/stats.json?match_id=630627",
+          "lineups": "https://livescore-api.com/api-client/matches/lineups.json?match_id=630627",
+          "head2head": "https://livescore-api.com/api-client/teams/head2head.json?team1_id=9&team2_id=20"
+        }
+      },
+      {
+        "date": "2025-05-25",
+        "away": {
+          "logo": "https://cdn.live-score-api.com/teams/bafc1f1b4be320f83f9b5a37121e1bfb.png",
+          "id": 6,
+          "name": "Leicester City",
+          "country_id": 19,
+          "stadium": "King Power Stadium"
+        },
+        "scheduled": "15:00",
+        "last_changed": "2025-05-25 18:54:49",
+        "group_id": 3385,
+        "location": "Vitality Stadium",
+        "status": "FINISHED",
+        "fixture_id": 1699377,
+        "round": "38",
+        "home": {
+          "logo": "https://cdn.live-score-api.com/teams/6f111fceca7490b605c5da30da7307a5.png",
+          "id": 1,
+          "name": "AFC Bournemouth",
+          "country_id": 19,
+          "stadium": "Vitality Stadium"
+        },
+        "id": 630626,
+        "federation": null,
+        "country": {
+          "is_real": true,
+          "name": "England",
+          "id": 19,
+          "uefa_code": "ENG",
+          "fifa_code": "ENG",
+          "flag": "ENG.png"
+        },
+        "time": "FT",
+        "added": "2025-05-25 14:46:40",
+        "competition": {
+          "id": 2,
+          "active": true,
+          "has_groups": true,
+          "is_cup": false,
+          "tier": 1,
+          "name": "Premier League",
+          "is_league": true,
+          "national_teams_only": false
+        },
+        "odds": {
+          "pre": {
+            "1": 1.35,
+            "2": 9,
+            "X": 5.75
+          },
+          "live": {
+            "1": null,
+            "2": null,
+            "X": null
+          }
+        },
+        "outcomes": {
+          "half_time": "X",
+          "full_time": "1",
+          "extra_time": null,
+          "penalty_shootout": null
+        },
+        "scores": {
+          "score": "2 - 0",
+          "ht_score": "0 - 0",
+          "ft_score": "2 - 0",
+          "et_score": "",
+          "ps_score": ""
+        },
+        "urls": {
+          "events": "https://livescore-api.com/api-client/scores/events.json?id=630626",
+          "statistics": "https://livescore-api.com/api-client/matches/stats.json?match_id=630626",
+          "lineups": "https://livescore-api.com/api-client/matches/lineups.json?match_id=630626",
+          "head2head": "https://livescore-api.com/api-client/teams/head2head.json?team1_id=1&team2_id=6"
+        }
+      },
+      {
+        "date": "2025-05-25",
+        "away": {
+          "logo": "https://cdn.live-score-api.com/teams/b6b0f96354e2e96471d2eaaa10ed75c2.png",
+          "id": 14,
+          "name": "West Ham United",
+          "country_id": 19,
+          "stadium": "London Stadium"
+        },
+        "scheduled": "15:00",
+        "last_changed": "2025-05-25 18:54:49",
+        "group_id": 3385,
+        "location": "Portman Road Stadium",
+        "status": "FINISHED",
+        "fixture_id": 1699379,
+        "round": "38",
+        "home": {
+          "logo": "https://cdn.live-score-api.com/teams/7ab7ea04876a8bfd7b48cf6133d52a5b.png",
+          "id": 491,
+          "name": "Ipswich Town",
+          "country_id": 19,
+          "stadium": "Portman Road Stadium"
+        },
+        "id": 630625,
+        "federation": null,
+        "country": {
+          "is_real": true,
+          "name": "England",
+          "id": 19,
+          "uefa_code": "ENG",
+          "fifa_code": "ENG",
+          "flag": "ENG.png"
+        },
+        "time": "FT",
+        "added": "2025-05-25 14:46:39",
+        "competition": {
+          "id": 2,
+          "active": true,
+          "has_groups": true,
+          "is_cup": false,
+          "tier": 1,
+          "name": "Premier League",
+          "is_league": true,
+          "national_teams_only": false
+        },
+        "odds": {
+          "pre": {
+            "1": 3.3,
+            "2": 2.25,
+            "X": 3.6
+          },
+          "live": {
+            "1": null,
+            "2": null,
+            "X": null
+          }
+        },
+        "outcomes": {
+          "half_time": "2",
+          "full_time": "2",
+          "extra_time": null,
+          "penalty_shootout": null
+        },
+        "scores": {
+          "score": "1 - 3",
+          "ht_score": "0 - 1",
+          "ft_score": "1 - 3",
+          "et_score": "",
+          "ps_score": ""
+        },
+        "urls": {
+          "events": "https://livescore-api.com/api-client/scores/events.json?id=630625",
+          "statistics": "https://livescore-api.com/api-client/matches/stats.json?match_id=630625",
+          "lineups": "https://livescore-api.com/api-client/matches/lineups.json?match_id=630625",
+          "head2head": "https://livescore-api.com/api-client/teams/head2head.json?team1_id=491&team2_id=14"
+        }
+      },
+      {
+        "date": "2025-05-25",
+        "away": {
+          "logo": "https://cdn.live-score-api.com/teams/70cfaebf1de80233123f981d607e8409.png",
+          "id": 17,
+          "name": "Chelsea",
+          "country_id": 19,
+          "stadium": "Stamford Bridge"
+        },
+        "scheduled": "15:01",
+        "last_changed": "2025-05-25 17:04:24",
+        "group_id": 3385,
+        "location": "The City Ground",
+        "status": "FINISHED",
+        "fixture_id": 1699383,
+        "round": "38",
+        "home": {
+          "logo": "https://cdn.live-score-api.com/teams/70e96f6ed451db9544348a3c612e8e13.png",
+          "id": 487,
+          "name": "Nottingham Forest",
+          "country_id": 19,
+          "stadium": "The City Ground"
+        },
+        "id": 630624,
+        "federation": null,
+        "country": {
+          "is_real": true,
+          "name": "England",
+          "id": 19,
+          "uefa_code": "ENG",
+          "fifa_code": "ENG",
+          "flag": "ENG.png"
+        },
+        "time": "FT",
+        "added": "2025-05-25 14:46:39",
+        "competition": {
+          "id": 2,
+          "active": true,
+          "has_groups": true,
+          "is_cup": false,
+          "tier": 1,
+          "name": "Premier League",
+          "is_league": true,
+          "national_teams_only": false
+        },
+        "odds": {
+          "pre": {
+            "1": 3.5,
+            "2": 2.14,
+            "X": 3.65
+          },
+          "live": {
+            "1": null,
+            "2": null,
+            "X": null
+          }
+        },
+        "outcomes": {
+          "half_time": "X",
+          "full_time": "2",
+          "extra_time": null,
+          "penalty_shootout": null
+        },
+        "scores": {
+          "score": "0 - 1",
+          "ht_score": "0 - 0",
+          "ft_score": "0 - 1",
+          "et_score": "",
+          "ps_score": ""
+        },
+        "urls": {
+          "events": "https://livescore-api.com/api-client/scores/events.json?id=630624",
+          "statistics": "https://livescore-api.com/api-client/matches/stats.json?match_id=630624",
+          "lineups": "https://livescore-api.com/api-client/matches/lineups.json?match_id=630624",
+          "head2head": "https://livescore-api.com/api-client/teams/head2head.json?team1_id=487&team2_id=17"
+        }
+      },
+      {
+        "date": "2025-05-25",
+        "away": {
+          "logo": "https://cdn.live-score-api.com/teams/a0197559244ed96a381e9ed79dc985df.png",
+          "id": 12,
+          "name": "Manchester City",
+          "country_id": 19,
+          "stadium": "Etihad Stadium"
+        },
+        "scheduled": "15:00",
+        "last_changed": "2025-05-25 18:54:49",
+        "group_id": 3385,
+        "location": "Craven Cottage ",
+        "status": "FINISHED",
+        "fixture_id": 1699378,
+        "round": "38",
+        "home": {
+          "logo": "https://cdn.live-score-api.com/teams/be44be79fc6d5a4cc62b5cb020c5c59c.png",
+          "id": 502,
+          "name": "Fulham",
+          "country_id": 19,
+          "stadium": "Craven Cottage "
+        },
+        "id": 630623,
+        "federation": null,
+        "country": {
+          "is_real": true,
+          "name": "England",
+          "id": 19,
+          "uefa_code": "ENG",
+          "fifa_code": "ENG",
+          "flag": "ENG.png"
+        },
+        "time": "FT",
+        "added": "2025-05-25 14:46:39",
+        "competition": {
+          "id": 2,
+          "active": true,
+          "has_groups": true,
+          "is_cup": false,
+          "tier": 1,
+          "name": "Premier League",
+          "is_league": true,
+          "national_teams_only": false
+        },
+        "odds": {
+          "pre": {
+            "1": 6,
+            "2": 1.56,
+            "X": 4.7
+          },
+          "live": {
+            "1": null,
+            "2": null,
+            "X": null
+          }
+        },
+        "outcomes": {
+          "half_time": "2",
+          "full_time": "2",
+          "extra_time": null,
+          "penalty_shootout": null
+        },
+        "scores": {
+          "score": "0 - 2",
+          "ht_score": "0 - 1",
+          "ft_score": "0 - 2",
+          "et_score": "",
+          "ps_score": ""
+        },
+        "urls": {
+          "events": "https://livescore-api.com/api-client/scores/events.json?id=630623",
+          "statistics": "https://livescore-api.com/api-client/matches/stats.json?match_id=630623",
+          "lineups": "https://livescore-api.com/api-client/matches/lineups.json?match_id=630623",
+          "head2head": "https://livescore-api.com/api-client/teams/head2head.json?team1_id=502&team2_id=12"
+        }
+      },
+      {
+        "date": "2025-05-25",
+        "away": {
+          "logo": "https://cdn.live-score-api.com/teams/31c22eb5acba1448e34e0f1464d2c014.png",
+          "id": 495,
+          "name": "Aston Villa",
+          "country_id": 19,
+          "stadium": "Villa Park"
+        },
+        "scheduled": "15:00",
+        "last_changed": "2025-05-25 18:54:50",
+        "group_id": 3385,
+        "location": "Old Trafford",
+        "status": "FINISHED",
+        "fixture_id": 1699381,
+        "round": "38",
+        "home": {
+          "logo": "https://cdn.live-score-api.com/teams/e14db0ec9ca3112664bc22ad40c7e8c8.png",
+          "id": 19,
+          "name": "Manchester United",
+          "country_id": 19,
+          "stadium": "Old Trafford"
+        },
+        "id": 630617,
+        "federation": null,
+        "country": {
+          "is_real": true,
+          "name": "England",
+          "id": 19,
+          "uefa_code": "ENG",
+          "fifa_code": "ENG",
+          "flag": "ENG.png"
+        },
+        "time": "FT",
+        "added": "2025-05-25 14:46:34",
+        "competition": {
+          "id": 2,
+          "active": true,
+          "has_groups": true,
+          "is_cup": false,
+          "tier": 1,
+          "name": "Premier League",
+          "is_league": true,
+          "national_teams_only": false
+        },
+        "odds": {
+          "pre": {
+            "1": 4.9,
+            "2": 1.7,
+            "X": 4.25
+          },
+          "live": {
+            "1": null,
+            "2": null,
+            "X": null
+          }
+        },
+        "outcomes": {
+          "half_time": "X",
+          "full_time": "1",
+          "extra_time": null,
+          "penalty_shootout": null
+        },
+        "scores": {
+          "score": "2 - 0",
+          "ht_score": "0 - 0",
+          "ft_score": "2 - 0",
+          "et_score": "",
+          "ps_score": ""
+        },
+        "urls": {
+          "events": "https://livescore-api.com/api-client/scores/events.json?id=630617",
+          "statistics": "https://livescore-api.com/api-client/matches/stats.json?match_id=630617",
+          "lineups": "https://livescore-api.com/api-client/matches/lineups.json?match_id=630617",
+          "head2head": "https://livescore-api.com/api-client/teams/head2head.json?team1_id=19&team2_id=495"
+        }
+      },
+      {
+        "date": "2025-05-20",
+        "away": {
+          "logo": "https://cdn.live-score-api.com/teams/6735c6b2b70bc3a319d0fec6263c3e0e.png",
+          "id": 497,
+          "name": "Wolverhampton Wanderers",
+          "country_id": 19,
+          "stadium": "Molineux Stadium"
+        },
+        "scheduled": "19:01",
+        "last_changed": "2025-05-20 20:58:47",
+        "group_id": 3385,
+        "location": "Selhurst Park",
+        "status": "FINISHED",
+        "fixture_id": 1699372,
+        "round": "37",
+        "home": {
+          "logo": "https://cdn.live-score-api.com/teams/dcf6a33371938f4632f434322e544d90.png",
+          "id": 3,
+          "name": "Crystal Palace",
+          "country_id": 19,
+          "stadium": "Selhurst Park"
+        },
+        "id": 629381,
+        "federation": null,
+        "country": {
+          "is_real": true,
+          "name": "England",
+          "id": 19,
+          "uefa_code": "ENG",
+          "fifa_code": "ENG",
+          "flag": "ENG.png"
+        },
+        "time": "FT",
+        "added": "2025-05-20 18:45:39",
+        "competition": {
+          "id": 2,
+          "active": true,
+          "has_groups": true,
+          "is_cup": false,
+          "tier": 1,
+          "name": "Premier League",
+          "is_league": true,
+          "national_teams_only": false
+        },
+        "odds": {
+          "pre": {
+            "1": 2.4,
+            "2": 3.15,
+            "X": 3.45
+          },
+          "live": {
+            "1": null,
+            "2": null,
+            "X": null
+          }
+        },
+        "outcomes": {
+          "half_time": "1",
+          "full_time": "1",
+          "extra_time": null,
+          "penalty_shootout": null
+        },
+        "scores": {
+          "score": "4 - 2",
+          "ht_score": "2 - 1",
+          "ft_score": "4 - 2",
+          "et_score": "",
+          "ps_score": ""
+        },
+        "urls": {
+          "events": "https://livescore-api.com/api-client/scores/events.json?id=629381",
+          "statistics": "https://livescore-api.com/api-client/matches/stats.json?match_id=629381",
+          "lineups": "https://livescore-api.com/api-client/matches/lineups.json?match_id=629381",
+          "head2head": "https://livescore-api.com/api-client/teams/head2head.json?team1_id=3&team2_id=497"
+        }
+      },
+      {
+        "date": "2025-05-20",
+        "away": {
+          "logo": "https://cdn.live-score-api.com/teams/6f111fceca7490b605c5da30da7307a5.png",
+          "id": 1,
+          "name": "AFC Bournemouth",
+          "country_id": 19,
+          "stadium": "Vitality Stadium"
+        },
+        "scheduled": "19:00",
+        "last_changed": "2025-05-20 20:57:37",
+        "group_id": 3385,
+        "location": "Etihad Stadium",
+        "status": "FINISHED",
+        "fixture_id": 1699375,
+        "round": "37",
+        "home": {
+          "logo": "https://cdn.live-score-api.com/teams/a0197559244ed96a381e9ed79dc985df.png",
+          "id": 12,
+          "name": "Manchester City",
+          "country_id": 19,
+          "stadium": "Etihad Stadium"
+        },
+        "id": 629380,
+        "federation": null,
+        "country": {
+          "is_real": true,
+          "name": "England",
+          "id": 19,
+          "uefa_code": "ENG",
+          "fifa_code": "ENG",
+          "flag": "ENG.png"
+        },
+        "time": "FT",
+        "added": "2025-05-20 18:45:39",
+        "competition": {
+          "id": 2,
+          "active": true,
+          "has_groups": true,
+          "is_cup": false,
+          "tier": 1,
+          "name": "Premier League",
+          "is_league": true,
+          "national_teams_only": false
+        },
+        "odds": {
+          "pre": {
+            "1": 1.37,
+            "2": 8.5,
+            "X": 5.6
+          },
+          "live": {
+            "1": null,
+            "2": null,
+            "X": null
+          }
+        },
+        "outcomes": {
+          "half_time": "1",
+          "full_time": "1",
+          "extra_time": null,
+          "penalty_shootout": null
+        },
+        "scores": {
+          "score": "3 - 1",
+          "ht_score": "2 - 0",
+          "ft_score": "3 - 1",
+          "et_score": "",
+          "ps_score": ""
+        },
+        "urls": {
+          "events": "https://livescore-api.com/api-client/scores/events.json?id=629380",
+          "statistics": "https://livescore-api.com/api-client/matches/stats.json?match_id=629380",
+          "lineups": "https://livescore-api.com/api-client/matches/lineups.json?match_id=629380",
+          "head2head": "https://livescore-api.com/api-client/teams/head2head.json?team1_id=12&team2_id=1"
+        }
+      },
+      {
+        "date": "2025-05-19",
+        "away": {
+          "logo": "https://cdn.live-score-api.com/teams/c151770f30bcb20b91d6c3f1e3310b75.png",
+          "id": 7,
+          "name": "Liverpool",
+          "country_id": 19,
+          "stadium": "Anfield"
+        },
+        "scheduled": "19:00",
+        "last_changed": "2025-05-19 20:58:46",
+        "group_id": 3385,
+        "location": "The American Express Community Stadium",
+        "status": "FINISHED",
+        "fixture_id": 1699370,
+        "round": "37",
+        "home": {
+          "logo": "https://cdn.live-score-api.com/teams/36506949f2faab82758e06690768ce39.png",
+          "id": 2,
+          "name": "Brighton & Hove Albion",
+          "country_id": 19,
+          "stadium": "The American Express Community Stadium"
+        },
+        "id": 629278,
+        "federation": null,
+        "country": {
+          "is_real": true,
+          "name": "England",
+          "id": 19,
+          "uefa_code": "ENG",
+          "fifa_code": "ENG",
+          "flag": "ENG.png"
+        },
+        "time": "FT",
+        "added": "2025-05-19 18:46:13",
+        "competition": {
+          "id": 2,
+          "active": true,
+          "has_groups": true,
+          "is_cup": false,
+          "tier": 1,
+          "name": "Premier League",
+          "is_league": true,
+          "national_teams_only": false
+        },
+        "odds": {
+          "pre": {
+            "1": 2.3,
+            "2": 3.1,
+            "X": 3.75
+          },
+          "live": {
+            "1": null,
+            "2": null,
+            "X": null
+          }
+        },
+        "outcomes": {
+          "half_time": "2",
+          "full_time": "1",
+          "extra_time": null,
+          "penalty_shootout": null
+        },
+        "scores": {
+          "score": "3 - 2",
+          "ht_score": "1 - 2",
+          "ft_score": "3 - 2",
+          "et_score": "",
+          "ps_score": ""
+        },
+        "urls": {
+          "events": "https://livescore-api.com/api-client/scores/events.json?id=629278",
+          "statistics": "https://livescore-api.com/api-client/matches/stats.json?match_id=629278",
+          "lineups": "https://livescore-api.com/api-client/matches/lineups.json?match_id=629278",
+          "head2head": "https://livescore-api.com/api-client/teams/head2head.json?team1_id=2&team2_id=7"
+        }
+      },
+      {
+        "date": "2025-05-18",
+        "away": {
+          "logo": "https://cdn.live-score-api.com/teams/74c78dfe9e37a2d76098d2ee3cf9ded1.png",
+          "id": 9,
+          "name": "Newcastle United",
+          "country_id": 19,
+          "stadium": "St. James' Park"
+        },
+        "scheduled": "15:30",
+        "last_changed": "2025-05-18 17:29:09",
+        "group_id": 3385,
+        "location": "Emirates Stadium",
+        "status": "FINISHED",
+        "fixture_id": 1699367,
+        "round": "37",
+        "home": {
+          "logo": "https://cdn.live-score-api.com/teams/c661a5950a4384c45c11aa9e493a4bfc.png",
+          "id": 18,
+          "name": "Arsenal",
+          "country_id": 19,
+          "stadium": "Emirates Stadium"
+        },
+        "id": 628964,
+        "federation": null,
+        "country": {
+          "is_real": true,
+          "name": "England",
+          "id": 19,
+          "uefa_code": "ENG",
+          "fifa_code": "ENG",
+          "flag": "ENG.png"
+        },
+        "time": "FT",
+        "added": "2025-05-18 15:16:28",
+        "competition": {
+          "id": 2,
+          "active": true,
+          "has_groups": true,
+          "is_cup": false,
+          "tier": 1,
+          "name": "Premier League",
+          "is_league": true,
+          "national_teams_only": false
+        },
+        "odds": {
+          "pre": {
+            "1": 1.95,
+            "2": 3.7,
+            "X": 3.7
+          },
+          "live": {
+            "1": null,
+            "2": null,
+            "X": null
+          }
+        },
+        "outcomes": {
+          "half_time": "X",
+          "full_time": "1",
+          "extra_time": null,
+          "penalty_shootout": null
+        },
+        "scores": {
+          "score": "1 - 0",
+          "ht_score": "0 - 0",
+          "ft_score": "1 - 0",
+          "et_score": "",
+          "ps_score": ""
+        },
+        "urls": {
+          "events": "https://livescore-api.com/api-client/scores/events.json?id=628964",
+          "statistics": "https://livescore-api.com/api-client/matches/stats.json?match_id=628964",
+          "lineups": "https://livescore-api.com/api-client/matches/lineups.json?match_id=628964",
+          "head2head": "https://livescore-api.com/api-client/teams/head2head.json?team1_id=18&team2_id=9"
+        }
+      },
+      {
+        "date": "2025-05-18",
+        "away": {
+          "logo": "https://cdn.live-score-api.com/teams/be44be79fc6d5a4cc62b5cb020c5c59c.png",
+          "id": 502,
+          "name": "Fulham",
+          "country_id": 19,
+          "stadium": "Craven Cottage "
+        },
+        "scheduled": "14:00",
+        "last_changed": "2025-05-18 16:01:10",
+        "group_id": 3385,
+        "location": "Griffin Park",
+        "status": "FINISHED",
+        "fixture_id": 1699369,
+        "round": "37",
+        "home": {
+          "logo": "https://cdn.live-score-api.com/teams/e2f0434e934362825290284856543313.png",
+          "id": 489,
+          "name": "Brentford",
+          "country_id": 19,
+          "stadium": "Griffin Park"
+        },
+        "id": 628845,
+        "federation": null,
+        "country": {
+          "is_real": true,
+          "name": "England",
+          "id": 19,
+          "uefa_code": "ENG",
+          "fifa_code": "ENG",
+          "flag": "ENG.png"
+        },
+        "time": "FT",
+        "added": "2025-05-18 13:46:49",
+        "competition": {
+          "id": 2,
+          "active": true,
+          "has_groups": true,
+          "is_cup": false,
+          "tier": 1,
+          "name": "Premier League",
+          "is_league": true,
+          "national_teams_only": false
+        },
+        "odds": {
+          "pre": {
+            "1": 1.9,
+            "2": 3.7,
+            "X": 3.9
+          },
+          "live": {
+            "1": null,
+            "2": null,
+            "X": null
+          }
+        },
+        "outcomes": {
+          "half_time": "1",
+          "full_time": "2",
+          "extra_time": null,
+          "penalty_shootout": null
+        },
+        "scores": {
+          "score": "2 - 3",
+          "ht_score": "2 - 1",
+          "ft_score": "2 - 3",
+          "et_score": "",
+          "ps_score": ""
+        },
+        "urls": {
+          "events": "https://livescore-api.com/api-client/scores/events.json?id=628845",
+          "statistics": "https://livescore-api.com/api-client/matches/stats.json?match_id=628845",
+          "lineups": "https://livescore-api.com/api-client/matches/lineups.json?match_id=628845",
+          "head2head": "https://livescore-api.com/api-client/teams/head2head.json?team1_id=489&team2_id=502"
+        }
+      },
+      {
+        "date": "2025-05-18",
+        "away": {
+          "logo": "https://cdn.live-score-api.com/teams/7ab7ea04876a8bfd7b48cf6133d52a5b.png",
+          "id": 491,
+          "name": "Ipswich Town",
+          "country_id": 19,
+          "stadium": "Portman Road Stadium"
+        },
+        "scheduled": "14:00",
+        "last_changed": "2025-05-18 15:54:17",
+        "group_id": 3385,
+        "location": "King Power Stadium",
+        "status": "FINISHED",
+        "fixture_id": 1699374,
+        "round": "37",
+        "home": {
+          "logo": "https://cdn.live-score-api.com/teams/bafc1f1b4be320f83f9b5a37121e1bfb.png",
+          "id": 6,
+          "name": "Leicester City",
+          "country_id": 19,
+          "stadium": "King Power Stadium"
+        },
+        "id": 628841,
+        "federation": null,
+        "country": {
+          "is_real": true,
+          "name": "England",
+          "id": 19,
+          "uefa_code": "ENG",
+          "fifa_code": "ENG",
+          "flag": "ENG.png"
+        },
+        "time": "FT",
+        "added": "2025-05-18 13:46:47",
+        "competition": {
+          "id": 2,
+          "active": true,
+          "has_groups": true,
+          "is_cup": false,
+          "tier": 1,
+          "name": "Premier League",
+          "is_league": true,
+          "national_teams_only": false
+        },
+        "odds": {
+          "pre": {
+            "1": 2.3,
+            "2": 3,
+            "X": 3.5
+          },
+          "live": {
+            "1": null,
+            "2": null,
+            "X": null
+          }
+        },
+        "outcomes": {
+          "half_time": "1",
+          "full_time": "1",
+          "extra_time": null,
+          "penalty_shootout": null
+        },
+        "scores": {
+          "score": "2 - 0",
+          "ht_score": "1 - 0",
+          "ft_score": "2 - 0",
+          "et_score": "",
+          "ps_score": ""
+        },
+        "urls": {
+          "events": "https://livescore-api.com/api-client/scores/events.json?id=628841",
+          "statistics": "https://livescore-api.com/api-client/matches/stats.json?match_id=628841",
+          "lineups": "https://livescore-api.com/api-client/matches/lineups.json?match_id=628841",
+          "head2head": "https://livescore-api.com/api-client/teams/head2head.json?team1_id=6&team2_id=491"
+        }
+      },
+      {
+        "date": "2025-05-18",
+        "away": {
+          "logo": "https://cdn.live-score-api.com/teams/70e96f6ed451db9544348a3c612e8e13.png",
+          "id": 487,
+          "name": "Nottingham Forest",
+          "country_id": 19,
+          "stadium": "The City Ground"
+        },
+        "scheduled": "13:16",
+        "last_changed": "2025-05-18 15:30:32",
+        "group_id": 3385,
+        "location": "London Stadium",
+        "status": "FINISHED",
+        "fixture_id": 1699376,
+        "round": "37",
+        "home": {
+          "logo": "https://cdn.live-score-api.com/teams/b6b0f96354e2e96471d2eaaa10ed75c2.png",
+          "id": 14,
+          "name": "West Ham United",
+          "country_id": 19,
+          "stadium": "London Stadium"
+        },
+        "id": 628799,
+        "federation": null,
+        "country": {
+          "is_real": true,
+          "name": "England",
+          "id": 19,
+          "uefa_code": "ENG",
+          "fifa_code": "ENG",
+          "flag": "ENG.png"
+        },
+        "time": "FT",
+        "added": "2025-05-18 13:01:28",
+        "competition": {
+          "id": 2,
+          "active": true,
+          "has_groups": true,
+          "is_cup": false,
+          "tier": 1,
+          "name": "Premier League",
+          "is_league": true,
+          "national_teams_only": false
+        },
+        "odds": {
+          "pre": {
+            "1": 2.75,
+            "2": 2.55,
+            "X": 3.3
+          },
+          "live": {
+            "1": null,
+            "2": null,
+            "X": null
+          }
+        },
+        "outcomes": {
+          "half_time": "2",
+          "full_time": "2",
+          "extra_time": null,
+          "penalty_shootout": null
+        },
+        "scores": {
+          "score": "1 - 2",
+          "ht_score": "0 - 1",
+          "ft_score": "1 - 2",
+          "et_score": "",
+          "ps_score": ""
+        },
+        "urls": {
+          "events": "https://livescore-api.com/api-client/scores/events.json?id=628799",
+          "statistics": "https://livescore-api.com/api-client/matches/stats.json?match_id=628799",
+          "lineups": "https://livescore-api.com/api-client/matches/lineups.json?match_id=628799",
+          "head2head": "https://livescore-api.com/api-client/teams/head2head.json?team1_id=14&team2_id=487"
+        }
+      },
+      {
+        "date": "2025-05-18",
+        "away": {
+          "logo": "https://cdn.live-score-api.com/teams/a3dc8456c788a48000d518494d118492.png",
+          "id": 4,
+          "name": "Southampton",
+          "country_id": 19,
+          "stadium": "St. Mary's Stadium"
+        },
+        "scheduled": "11:01",
+        "last_changed": "2025-05-18 12:58:49",
+        "group_id": 3385,
+        "location": "Goodison Park",
+        "status": "FINISHED",
+        "fixture_id": 1699373,
+        "round": "37",
+        "home": {
+          "logo": "https://cdn.live-score-api.com/teams/bd1ac9fa6ba642a592e73c568d82fb52.png",
+          "id": 20,
+          "name": "Everton",
+          "country_id": 19,
+          "stadium": "Goodison Park"
+        },
+        "id": 628699,
+        "federation": null,
+        "country": {
+          "is_real": true,
+          "name": "England",
+          "id": 19,
+          "uefa_code": "ENG",
+          "fifa_code": "ENG",
+          "flag": "ENG.png"
+        },
+        "time": "FT",
+        "added": "2025-05-18 10:46:05",
+        "competition": {
+          "id": 2,
+          "active": true,
+          "has_groups": true,
+          "is_cup": false,
+          "tier": 1,
+          "name": "Premier League",
+          "is_league": true,
+          "national_teams_only": false
+        },
+        "odds": {
+          "pre": {
+            "1": 1.48,
+            "2": 7.5,
+            "X": 4.6
+          },
+          "live": {
+            "1": null,
+            "2": null,
+            "X": null
+          }
+        },
+        "outcomes": {
+          "half_time": "1",
+          "full_time": "1",
+          "extra_time": null,
+          "penalty_shootout": null
+        },
+        "scores": {
+          "score": "2 - 0",
+          "ht_score": "2 - 0",
+          "ft_score": "2 - 0",
+          "et_score": "",
+          "ps_score": ""
+        },
+        "urls": {
+          "events": "https://livescore-api.com/api-client/scores/events.json?id=628699",
+          "statistics": "https://livescore-api.com/api-client/matches/stats.json?match_id=628699",
+          "lineups": "https://livescore-api.com/api-client/matches/lineups.json?match_id=628699",
+          "head2head": "https://livescore-api.com/api-client/teams/head2head.json?team1_id=20&team2_id=4"
+        }
+      },
+      {
+        "date": "2025-05-16",
+        "away": {
+          "logo": "https://cdn.live-score-api.com/teams/e14db0ec9ca3112664bc22ad40c7e8c8.png",
+          "id": 19,
+          "name": "Manchester United",
+          "country_id": 19,
+          "stadium": "Old Trafford"
+        },
+        "scheduled": "19:15",
+        "last_changed": "2025-05-16 21:16:42",
+        "group_id": 3385,
+        "location": "Stamford Bridge",
+        "status": "FINISHED",
+        "fixture_id": 1699371,
+        "round": "37",
+        "home": {
+          "logo": "https://cdn.live-score-api.com/teams/70cfaebf1de80233123f981d607e8409.png",
+          "id": 17,
+          "name": "Chelsea",
+          "country_id": 19,
+          "stadium": "Stamford Bridge"
+        },
+        "id": 627919,
+        "federation": null,
+        "country": {
+          "is_real": true,
+          "name": "England",
+          "id": 19,
+          "uefa_code": "ENG",
+          "fifa_code": "ENG",
+          "flag": "ENG.png"
+        },
+        "time": "FT",
+        "added": "2025-05-16 19:01:04",
+        "competition": {
+          "id": 2,
+          "active": true,
+          "has_groups": true,
+          "is_cup": false,
+          "tier": 1,
+          "name": "Premier League",
+          "is_league": true,
+          "national_teams_only": false
+        },
+        "odds": {
+          "pre": {
+            "1": 1.58,
+            "2": 5.6,
+            "X": 4.6
+          },
+          "live": {
+            "1": null,
+            "2": null,
+            "X": null
+          }
+        },
+        "outcomes": {
+          "half_time": "X",
+          "full_time": "1",
+          "extra_time": null,
+          "penalty_shootout": null
+        },
+        "scores": {
+          "score": "1 - 0",
+          "ht_score": "0 - 0",
+          "ft_score": "1 - 0",
+          "et_score": "",
+          "ps_score": ""
+        },
+        "urls": {
+          "events": "https://livescore-api.com/api-client/scores/events.json?id=627919",
+          "statistics": "https://livescore-api.com/api-client/matches/stats.json?match_id=627919",
+          "lineups": "https://livescore-api.com/api-client/matches/lineups.json?match_id=627919",
+          "head2head": "https://livescore-api.com/api-client/teams/head2head.json?team1_id=17&team2_id=19"
+        }
+      },
+      {
+        "date": "2025-05-16",
+        "away": {
+          "logo": "https://cdn.live-score-api.com/teams/0f1036cdcfeecfe0d93317be589d7094.png",
+          "id": 15,
+          "name": "Tottenham Hotspur",
+          "country_id": 19,
+          "stadium": "Tottenham Hotspur Stadium"
+        },
+        "scheduled": "18:30",
+        "last_changed": "2025-05-16 20:25:31",
+        "group_id": 3385,
+        "location": "Villa Park",
+        "status": "FINISHED",
+        "fixture_id": 1699368,
+        "round": "37",
+        "home": {
+          "logo": "https://cdn.live-score-api.com/teams/31c22eb5acba1448e34e0f1464d2c014.png",
+          "id": 495,
+          "name": "Aston Villa",
+          "country_id": 19,
+          "stadium": "Villa Park"
+        },
+        "id": 627895,
+        "federation": null,
+        "country": {
+          "is_real": true,
+          "name": "England",
+          "id": 19,
+          "uefa_code": "ENG",
+          "fifa_code": "ENG",
+          "flag": "ENG.png"
+        },
+        "time": "FT",
+        "added": "2025-05-16 18:15:54",
+        "competition": {
+          "id": 2,
+          "active": true,
+          "has_groups": true,
+          "is_cup": false,
+          "tier": 1,
+          "name": "Premier League",
+          "is_league": true,
+          "national_teams_only": false
+        },
+        "odds": {
+          "pre": {
+            "1": 1.27,
+            "2": 9.5,
+            "X": 6.5
+          },
+          "live": {
+            "1": null,
+            "2": null,
+            "X": null
+          }
+        },
+        "outcomes": {
+          "half_time": "X",
+          "full_time": "1",
+          "extra_time": null,
+          "penalty_shootout": null
+        },
+        "scores": {
+          "score": "2 - 0",
+          "ht_score": "0 - 0",
+          "ft_score": "2 - 0",
+          "et_score": "",
+          "ps_score": ""
+        },
+        "urls": {
+          "events": "https://livescore-api.com/api-client/scores/events.json?id=627895",
+          "statistics": "https://livescore-api.com/api-client/matches/stats.json?match_id=627895",
+          "lineups": "https://livescore-api.com/api-client/matches/lineups.json?match_id=627895",
+          "head2head": "https://livescore-api.com/api-client/teams/head2head.json?team1_id=495&team2_id=15"
+        }
+      },
+      {
+        "date": "2025-05-11",
+        "away": {
+          "logo": "https://cdn.live-score-api.com/teams/c661a5950a4384c45c11aa9e493a4bfc.png",
+          "id": 18,
+          "name": "Arsenal",
+          "country_id": 19,
+          "stadium": "Emirates Stadium"
+        },
+        "scheduled": "15:30",
+        "last_changed": "2025-05-11 19:55:28",
+        "group_id": 3385,
+        "location": "Anfield",
+        "status": "FINISHED",
+        "fixture_id": 1699360,
+        "round": "36",
+        "home": {
+          "logo": "https://cdn.live-score-api.com/teams/c151770f30bcb20b91d6c3f1e3310b75.png",
+          "id": 7,
+          "name": "Liverpool",
+          "country_id": 19,
+          "stadium": "Anfield"
+        },
+        "id": 627097,
+        "federation": null,
+        "country": {
+          "is_real": true,
+          "name": "England",
+          "id": 19,
+          "uefa_code": "ENG",
+          "fifa_code": "ENG",
+          "flag": "ENG.png"
+        },
+        "time": "FT",
+        "added": "2025-05-11 15:16:46",
+        "competition": {
+          "id": 2,
+          "active": true,
+          "has_groups": true,
+          "is_cup": false,
+          "tier": 1,
+          "name": "Premier League",
+          "is_league": true,
+          "national_teams_only": false
+        },
+        "odds": {
+          "pre": {
+            "1": 2,
+            "2": 3.6,
+            "X": 3.6
+          },
+          "live": {
+            "1": null,
+            "2": null,
+            "X": null
+          }
+        },
+        "outcomes": {
+          "half_time": "1",
+          "full_time": "X",
+          "extra_time": null,
+          "penalty_shootout": null
+        },
+        "scores": {
+          "score": "2 - 2",
+          "ht_score": "2 - 0",
+          "ft_score": "2 - 2",
+          "et_score": "",
+          "ps_score": ""
+        },
+        "urls": {
+          "events": "https://livescore-api.com/api-client/scores/events.json?id=627097",
+          "statistics": "https://livescore-api.com/api-client/matches/stats.json?match_id=627097",
+          "lineups": "https://livescore-api.com/api-client/matches/lineups.json?match_id=627097",
+          "head2head": "https://livescore-api.com/api-client/teams/head2head.json?team1_id=7&team2_id=18"
+        }
+      },
+      {
+        "date": "2025-05-11",
+        "away": {
+          "logo": "https://cdn.live-score-api.com/teams/dcf6a33371938f4632f434322e544d90.png",
+          "id": 3,
+          "name": "Crystal Palace",
+          "country_id": 19,
+          "stadium": "Selhurst Park"
+        },
+        "scheduled": "13:15",
+        "last_changed": "2025-05-11 17:54:41",
+        "group_id": 3385,
+        "location": "Tottenham Hotspur Stadium",
+        "status": "FINISHED",
+        "fixture_id": 1699365,
+        "round": "36",
+        "home": {
+          "logo": "https://cdn.live-score-api.com/teams/0f1036cdcfeecfe0d93317be589d7094.png",
+          "id": 15,
+          "name": "Tottenham Hotspur",
+          "country_id": 19,
+          "stadium": "Tottenham Hotspur Stadium"
+        },
+        "id": 626967,
+        "federation": null,
+        "country": {
+          "is_real": true,
+          "name": "England",
+          "id": 19,
+          "uefa_code": "ENG",
+          "fifa_code": "ENG",
+          "flag": "ENG.png"
+        },
+        "time": "FT",
+        "added": "2025-05-11 13:01:32",
+        "competition": {
+          "id": 2,
+          "active": true,
+          "has_groups": true,
+          "is_cup": false,
+          "tier": 1,
+          "name": "Premier League",
+          "is_league": true,
+          "national_teams_only": false
+        },
+        "odds": {
+          "pre": {
+            "1": 2.62,
+            "2": 2.5,
+            "X": 3.6
+          },
+          "live": {
+            "1": null,
+            "2": null,
+            "X": null
+          }
+        },
+        "outcomes": {
+          "half_time": "2",
+          "full_time": "2",
+          "extra_time": null,
+          "penalty_shootout": null
+        },
+        "scores": {
+          "score": "0 - 2",
+          "ht_score": "0 - 1",
+          "ft_score": "0 - 2",
+          "et_score": "",
+          "ps_score": ""
+        },
+        "urls": {
+          "events": "https://livescore-api.com/api-client/scores/events.json?id=626967",
+          "statistics": "https://livescore-api.com/api-client/matches/stats.json?match_id=626967",
+          "lineups": "https://livescore-api.com/api-client/matches/lineups.json?match_id=626967",
+          "head2head": "https://livescore-api.com/api-client/teams/head2head.json?team1_id=15&team2_id=3"
+        }
+      },
+      {
+        "date": "2025-05-11",
+        "away": {
+          "logo": "https://cdn.live-score-api.com/teams/bafc1f1b4be320f83f9b5a37121e1bfb.png",
+          "id": 6,
+          "name": "Leicester City",
+          "country_id": 19,
+          "stadium": "King Power Stadium"
+        },
+        "scheduled": "13:15",
+        "last_changed": "2025-05-11 17:54:41",
+        "group_id": 3385,
+        "location": "The City Ground",
+        "status": "FINISHED",
+        "fixture_id": 1699363,
+        "round": "36",
+        "home": {
+          "logo": "https://cdn.live-score-api.com/teams/70e96f6ed451db9544348a3c612e8e13.png",
+          "id": 487,
+          "name": "Nottingham Forest",
+          "country_id": 19,
+          "stadium": "The City Ground"
+        },
+        "id": 626966,
+        "federation": null,
+        "country": {
+          "is_real": true,
+          "name": "England",
+          "id": 19,
+          "uefa_code": "ENG",
+          "fifa_code": "ENG",
+          "flag": "ENG.png"
+        },
+        "time": "FT",
+        "added": "2025-05-11 13:01:31",
+        "competition": {
+          "id": 2,
+          "active": true,
+          "has_groups": true,
+          "is_cup": false,
+          "tier": 1,
+          "name": "Premier League",
+          "is_league": true,
+          "national_teams_only": false
+        },
+        "odds": {
+          "pre": {
+            "1": 1.33,
+            "2": 8,
+            "X": 5.25
+          },
+          "live": {
+            "1": null,
+            "2": null,
+            "X": null
+          }
+        },
+        "outcomes": {
+          "half_time": "X",
+          "full_time": "X",
+          "extra_time": null,
+          "penalty_shootout": null
+        },
+        "scores": {
+          "score": "2 - 2",
+          "ht_score": "1 - 1",
+          "ft_score": "2 - 2",
+          "et_score": "",
+          "ps_score": ""
+        },
+        "urls": {
+          "events": "https://livescore-api.com/api-client/scores/events.json?id=626966",
+          "statistics": "https://livescore-api.com/api-client/matches/stats.json?match_id=626966",
+          "lineups": "https://livescore-api.com/api-client/matches/lineups.json?match_id=626966",
+          "head2head": "https://livescore-api.com/api-client/teams/head2head.json?team1_id=487&team2_id=6"
+        }
+      },
+      {
+        "date": "2025-05-11",
+        "away": {
+          "logo": "https://cdn.live-score-api.com/teams/b6b0f96354e2e96471d2eaaa10ed75c2.png",
+          "id": 14,
+          "name": "West Ham United",
+          "country_id": 19,
+          "stadium": "London Stadium"
+        },
+        "scheduled": "13:15",
+        "last_changed": "2025-05-11 17:54:41",
+        "group_id": 3385,
+        "location": "Old Trafford",
+        "status": "FINISHED",
+        "fixture_id": 1699361,
+        "round": "36",
+        "home": {
+          "logo": "https://cdn.live-score-api.com/teams/e14db0ec9ca3112664bc22ad40c7e8c8.png",
+          "id": 19,
+          "name": "Manchester United",
+          "country_id": 19,
+          "stadium": "Old Trafford"
+        },
+        "id": 626965,
+        "federation": null,
+        "country": {
+          "is_real": true,
+          "name": "England",
+          "id": 19,
+          "uefa_code": "ENG",
+          "fifa_code": "ENG",
+          "flag": "ENG.png"
+        },
+        "time": "FT",
+        "added": "2025-05-11 13:01:30",
+        "competition": {
+          "id": 2,
+          "active": true,
+          "has_groups": true,
+          "is_cup": false,
+          "tier": 1,
+          "name": "Premier League",
+          "is_league": true,
+          "national_teams_only": false
+        },
+        "odds": {
+          "pre": {
+            "1": 1.9,
+            "2": 4,
+            "X": 3.6
+          },
+          "live": {
+            "1": null,
+            "2": null,
+            "X": null
+          }
+        },
+        "outcomes": {
+          "half_time": "2",
+          "full_time": "2",
+          "extra_time": null,
+          "penalty_shootout": null
+        },
+        "scores": {
+          "score": "0 - 2",
+          "ht_score": "0 - 1",
+          "ft_score": "0 - 2",
+          "et_score": "",
+          "ps_score": ""
+        },
+        "urls": {
+          "events": "https://livescore-api.com/api-client/scores/events.json?id=626965",
+          "statistics": "https://livescore-api.com/api-client/matches/stats.json?match_id=626965",
+          "lineups": "https://livescore-api.com/api-client/matches/lineups.json?match_id=626965",
+          "head2head": "https://livescore-api.com/api-client/teams/head2head.json?team1_id=19&team2_id=14"
+        }
+      },
+      {
+        "date": "2025-05-11",
+        "away": {
+          "logo": "https://cdn.live-score-api.com/teams/70cfaebf1de80233123f981d607e8409.png",
+          "id": 17,
+          "name": "Chelsea",
+          "country_id": 19,
+          "stadium": "Stamford Bridge"
+        },
+        "scheduled": "11:00",
+        "last_changed": "2025-05-11 14:55:10",
+        "group_id": 3385,
+        "location": "St. James' Park",
+        "status": "FINISHED",
+        "fixture_id": 1699362,
+        "round": "36",
+        "home": {
+          "logo": "https://cdn.live-score-api.com/teams/74c78dfe9e37a2d76098d2ee3cf9ded1.png",
+          "id": 9,
+          "name": "Newcastle United",
+          "country_id": 19,
+          "stadium": "St. James' Park"
+        },
+        "id": 626870,
+        "federation": null,
+        "country": {
+          "is_real": true,
+          "name": "England",
+          "id": 19,
+          "uefa_code": "ENG",
+          "fifa_code": "ENG",
+          "flag": "ENG.png"
+        },
+        "time": "FT",
+        "added": "2025-05-11 10:46:35",
+        "competition": {
+          "id": 2,
+          "active": true,
+          "has_groups": true,
+          "is_cup": false,
+          "tier": 1,
+          "name": "Premier League",
+          "is_league": true,
+          "national_teams_only": false
+        },
+        "odds": {
+          "pre": {
+            "1": 2.25,
+            "2": 3.2,
+            "X": 3.65
+          },
+          "live": {
+            "1": null,
+            "2": null,
+            "X": null
+          }
+        },
+        "outcomes": {
+          "half_time": "1",
+          "full_time": "1",
+          "extra_time": null,
+          "penalty_shootout": null
+        },
+        "scores": {
+          "score": "2 - 0",
+          "ht_score": "1 - 0",
+          "ft_score": "2 - 0",
+          "et_score": "",
+          "ps_score": ""
+        },
+        "urls": {
+          "events": "https://livescore-api.com/api-client/scores/events.json?id=626870",
+          "statistics": "https://livescore-api.com/api-client/matches/stats.json?match_id=626870",
+          "lineups": "https://livescore-api.com/api-client/matches/lineups.json?match_id=626870",
+          "head2head": "https://livescore-api.com/api-client/teams/head2head.json?team1_id=9&team2_id=17"
+        }
+      },
+      {
+        "date": "2025-05-10",
+        "away": {
+          "logo": "https://cdn.live-score-api.com/teams/31c22eb5acba1448e34e0f1464d2c014.png",
+          "id": 495,
+          "name": "Aston Villa",
+          "country_id": 19,
+          "stadium": "Villa Park"
+        },
+        "scheduled": "16:30",
+        "last_changed": "2025-05-10 20:55:29",
+        "group_id": 3385,
+        "location": "Vitality Stadium",
+        "status": "FINISHED",
+        "fixture_id": 1699357,
+        "round": "36",
+        "home": {
+          "logo": "https://cdn.live-score-api.com/teams/6f111fceca7490b605c5da30da7307a5.png",
+          "id": 1,
+          "name": "AFC Bournemouth",
+          "country_id": 19,
+          "stadium": "Vitality Stadium"
+        },
+        "id": 626570,
+        "federation": null,
+        "country": {
+          "is_real": true,
+          "name": "England",
+          "id": 19,
+          "uefa_code": "ENG",
+          "fifa_code": "ENG",
+          "flag": "ENG.png"
+        },
+        "time": "FT",
+        "added": "2025-05-10 16:16:04",
+        "competition": {
+          "id": 2,
+          "active": true,
+          "has_groups": true,
+          "is_cup": false,
+          "tier": 1,
+          "name": "Premier League",
+          "is_league": true,
+          "national_teams_only": false
+        },
+        "odds": {
+          "pre": {
+            "1": 2.4,
+            "2": 2.75,
+            "X": 3.6
+          },
+          "live": {
+            "1": null,
+            "2": null,
+            "X": null
+          }
+        },
+        "outcomes": {
+          "half_time": "2",
+          "full_time": "2",
+          "extra_time": null,
+          "penalty_shootout": null
+        },
+        "scores": {
+          "score": "0 - 1",
+          "ht_score": "0 - 1",
+          "ft_score": "0 - 1",
+          "et_score": "",
+          "ps_score": ""
+        },
+        "urls": {
+          "events": "https://livescore-api.com/api-client/scores/events.json?id=626570",
+          "statistics": "https://livescore-api.com/api-client/matches/stats.json?match_id=626570",
+          "lineups": "https://livescore-api.com/api-client/matches/lineups.json?match_id=626570",
+          "head2head": "https://livescore-api.com/api-client/teams/head2head.json?team1_id=1&team2_id=495"
+        }
+      },
+      {
+        "date": "2025-05-10",
+        "away": {
+          "logo": "https://cdn.live-score-api.com/teams/36506949f2faab82758e06690768ce39.png",
+          "id": 2,
+          "name": "Brighton & Hove Albion",
+          "country_id": 19,
+          "stadium": "The American Express Community Stadium"
+        },
+        "scheduled": "14:00",
+        "last_changed": "2025-05-10 17:55:48",
+        "group_id": 3385,
+        "location": "Molineux Stadium",
+        "status": "FINISHED",
+        "fixture_id": 1699366,
+        "round": "36",
+        "home": {
+          "logo": "https://cdn.live-score-api.com/teams/6735c6b2b70bc3a319d0fec6263c3e0e.png",
+          "id": 497,
+          "name": "Wolverhampton Wanderers",
+          "country_id": 19,
+          "stadium": "Molineux Stadium"
+        },
+        "id": 626370,
+        "federation": null,
+        "country": {
+          "is_real": true,
+          "name": "England",
+          "id": 19,
+          "uefa_code": "ENG",
+          "fifa_code": "ENG",
+          "flag": "ENG.png"
+        },
+        "time": "FT",
+        "added": "2025-05-10 13:46:57",
+        "competition": {
+          "id": 2,
+          "active": true,
+          "has_groups": true,
+          "is_cup": false,
+          "tier": 1,
+          "name": "Premier League",
+          "is_league": true,
+          "national_teams_only": false
+        },
+        "odds": {
+          "pre": {
+            "1": 2.7,
+            "2": 2.5,
+            "X": 3.5
+          },
+          "live": {
+            "1": null,
+            "2": null,
+            "X": null
+          }
+        },
+        "outcomes": {
+          "half_time": "2",
+          "full_time": "2",
+          "extra_time": null,
+          "penalty_shootout": null
+        },
+        "scores": {
+          "score": "0 - 2",
+          "ht_score": "0 - 1",
+          "ft_score": "0 - 2",
+          "et_score": "",
+          "ps_score": ""
+        },
+        "urls": {
+          "events": "https://livescore-api.com/api-client/scores/events.json?id=626370",
+          "statistics": "https://livescore-api.com/api-client/matches/stats.json?match_id=626370",
+          "lineups": "https://livescore-api.com/api-client/matches/lineups.json?match_id=626370",
+          "head2head": "https://livescore-api.com/api-client/teams/head2head.json?team1_id=497&team2_id=2"
+        }
+      },
+      {
+        "date": "2025-05-10",
+        "away": {
+          "logo": "https://cdn.live-score-api.com/teams/a0197559244ed96a381e9ed79dc985df.png",
+          "id": 12,
+          "name": "Manchester City",
+          "country_id": 19,
+          "stadium": "Etihad Stadium"
+        },
+        "scheduled": "14:00",
+        "last_changed": "2025-05-10 17:55:48",
+        "group_id": 3385,
+        "location": "St. Mary's Stadium",
+        "status": "FINISHED",
+        "fixture_id": 1699364,
+        "round": "36",
+        "home": {
+          "logo": "https://cdn.live-score-api.com/teams/a3dc8456c788a48000d518494d118492.png",
+          "id": 4,
+          "name": "Southampton",
+          "country_id": 19,
+          "stadium": "St. Mary's Stadium"
+        },
+        "id": 626369,
+        "federation": null,
+        "country": {
+          "is_real": true,
+          "name": "England",
+          "id": 19,
+          "uefa_code": "ENG",
+          "fifa_code": "ENG",
+          "flag": "ENG.png"
+        },
+        "time": "FT",
+        "added": "2025-05-10 13:46:57",
+        "competition": {
+          "id": 2,
+          "active": true,
+          "has_groups": true,
+          "is_cup": false,
+          "tier": 1,
+          "name": "Premier League",
+          "is_league": true,
+          "national_teams_only": false
+        },
+        "odds": {
+          "pre": {
+            "1": 12,
+            "2": 1.2,
+            "X": 7
+          },
+          "live": {
+            "1": null,
+            "2": null,
+            "X": null
+          }
+        },
+        "outcomes": {
+          "half_time": "X",
+          "full_time": "X",
+          "extra_time": null,
+          "penalty_shootout": null
+        },
+        "scores": {
+          "score": "0 - 0",
+          "ht_score": "0 - 0",
+          "ft_score": "0 - 0",
+          "et_score": "",
+          "ps_score": ""
+        },
+        "urls": {
+          "events": "https://livescore-api.com/api-client/scores/events.json?id=626369",
+          "statistics": "https://livescore-api.com/api-client/matches/stats.json?match_id=626369",
+          "lineups": "https://livescore-api.com/api-client/matches/lineups.json?match_id=626369",
+          "head2head": "https://livescore-api.com/api-client/teams/head2head.json?team1_id=4&team2_id=12"
+        }
+      },
+      {
+        "date": "2025-05-10",
+        "away": {
+          "logo": "https://cdn.live-score-api.com/teams/e2f0434e934362825290284856543313.png",
+          "id": 489,
+          "name": "Brentford",
+          "country_id": 19,
+          "stadium": "Griffin Park"
+        },
+        "scheduled": "14:00",
+        "last_changed": "2025-05-10 17:55:48",
+        "group_id": 3385,
+        "location": "Portman Road Stadium",
+        "status": "FINISHED",
+        "fixture_id": 1699359,
+        "round": "36",
+        "home": {
+          "logo": "https://cdn.live-score-api.com/teams/7ab7ea04876a8bfd7b48cf6133d52a5b.png",
+          "id": 491,
+          "name": "Ipswich Town",
+          "country_id": 19,
+          "stadium": "Portman Road Stadium"
+        },
+        "id": 626368,
+        "federation": null,
+        "country": {
+          "is_real": true,
+          "name": "England",
+          "id": 19,
+          "uefa_code": "ENG",
+          "fifa_code": "ENG",
+          "flag": "ENG.png"
+        },
+        "time": "FT",
+        "added": "2025-05-10 13:46:56",
+        "competition": {
+          "id": 2,
+          "active": true,
+          "has_groups": true,
+          "is_cup": false,
+          "tier": 1,
+          "name": "Premier League",
+          "is_league": true,
+          "national_teams_only": false
+        },
+        "odds": {
+          "pre": {
+            "1": 5,
+            "2": 1.65,
+            "X": 4
+          },
+          "live": {
+            "1": null,
+            "2": null,
+            "X": null
+          }
+        },
+        "outcomes": {
+          "half_time": "2",
+          "full_time": "2",
+          "extra_time": null,
+          "penalty_shootout": null
+        },
+        "scores": {
+          "score": "0 - 1",
+          "ht_score": "0 - 1",
+          "ft_score": "0 - 1",
+          "et_score": "",
+          "ps_score": ""
+        },
+        "urls": {
+          "events": "https://livescore-api.com/api-client/scores/events.json?id=626368",
+          "statistics": "https://livescore-api.com/api-client/matches/stats.json?match_id=626368",
+          "lineups": "https://livescore-api.com/api-client/matches/lineups.json?match_id=626368",
+          "head2head": "https://livescore-api.com/api-client/teams/head2head.json?team1_id=491&team2_id=489"
+        }
+      },
+      {
+        "date": "2025-05-10",
+        "away": {
+          "logo": "https://cdn.live-score-api.com/teams/bd1ac9fa6ba642a592e73c568d82fb52.png",
+          "id": 20,
+          "name": "Everton",
+          "country_id": 19,
+          "stadium": "Goodison Park"
+        },
+        "scheduled": "14:00",
+        "last_changed": "2025-05-10 17:55:47",
+        "group_id": 3385,
+        "location": "Craven Cottage ",
+        "status": "FINISHED",
+        "fixture_id": 1699358,
+        "round": "36",
+        "home": {
+          "logo": "https://cdn.live-score-api.com/teams/be44be79fc6d5a4cc62b5cb020c5c59c.png",
+          "id": 502,
+          "name": "Fulham",
+          "country_id": 19,
+          "stadium": "Craven Cottage "
+        },
+        "id": 626367,
+        "federation": null,
+        "country": {
+          "is_real": true,
+          "name": "England",
+          "id": 19,
+          "uefa_code": "ENG",
+          "fifa_code": "ENG",
+          "flag": "ENG.png"
+        },
+        "time": "FT",
+        "added": "2025-05-10 13:46:55",
+        "competition": {
+          "id": 2,
+          "active": true,
+          "has_groups": true,
+          "is_cup": false,
+          "tier": 1,
+          "name": "Premier League",
+          "is_league": true,
+          "national_teams_only": false
+        },
+        "odds": {
+          "pre": {
+            "1": 1.85,
+            "2": 4.5,
+            "X": 3.4
+          },
+          "live": {
+            "1": null,
+            "2": null,
+            "X": null
+          }
+        },
+        "outcomes": {
+          "half_time": "X",
+          "full_time": "2",
+          "extra_time": null,
+          "penalty_shootout": null
+        },
+        "scores": {
+          "score": "1 - 3",
+          "ht_score": "1 - 1",
+          "ft_score": "1 - 3",
+          "et_score": "",
+          "ps_score": ""
+        },
+        "urls": {
+          "events": "https://livescore-api.com/api-client/scores/events.json?id=626367",
+          "statistics": "https://livescore-api.com/api-client/matches/stats.json?match_id=626367",
+          "lineups": "https://livescore-api.com/api-client/matches/lineups.json?match_id=626367",
+          "head2head": "https://livescore-api.com/api-client/teams/head2head.json?team1_id=502&team2_id=20"
+        }
+      }
+    ],
+    "total_pages": 13
+  }
+}

@@ -1,0 +1,296 @@
+[
+  {
+    "match_id": 591398,
+    "fixture_id": 1699231,
+    "date": "2025-01-26",
+    "status": "FINISHED",
+    "competition": "Premier League",
+    "round": "23",
+    "venue": "Craven Cottage ",
+    "home_team": "Fulham",
+    "away_team": "Manchester United",
+    "score": "0 - 1",
+    "ht_score": "0 - 0",
+    "ft_score": "0 - 1",
+    "outcome": "2",
+    "stats": {
+      "possession": {
+        "home": 51,
+        "away": 49
+      },
+      "shots_on_target": {
+        "home": 3,
+        "away": 1
+      },
+      "shots_off_target": {
+        "home": 7,
+        "away": 3
+      },
+      "attempts_on_goal": {
+        "home": 10,
+        "away": 4
+      },
+      "shots_blocked": {
+        "home": 1,
+        "away": 1
+      },
+      "corners": {
+        "home": 3,
+        "away": 0
+      },
+      "offsides": {
+        "home": 2,
+        "away": 2
+      },
+      "yellow_cards": {
+        "home": 0,
+        "away": 1
+      },
+      "red_cards": {
+        "home": 0,
+        "away": 0
+      },
+      "fouls": {
+        "home": 7,
+        "away": 9
+      },
+      "saves": {
+        "home": 0,
+        "away": 3
+      },
+      "dangerous_attacks": {
+        "home": 42,
+        "away": 35
+      },
+      "attacks": {
+        "home": 93,
+        "away": 98
+      },
+      "penalties": {
+        "home": null,
+        "away": null
+      },
+      "substitutions": {
+        "home": 4,
+        "away": 5
+      },
+      "free_kicks": {
+        "home": 11,
+        "away": 9
+      },
+      "goal_kicks": {
+        "home": 4,
+        "away": 9
+      },
+      "throw_ins": {
+        "home": 17,
+        "away": 17
+      },
+      "treatments": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    "odds": {
+      "1": 2.35,
+      "2": 3.1,
+      "X": 3.4
+    }
+  },
+  {
+    "match_id": 591326,
+    "fixture_id": 1699228,
+    "date": "2025-01-26",
+    "status": "FINISHED",
+    "competition": "Premier League",
+    "round": "23",
+    "venue": "Villa Park",
+    "home_team": "Aston Villa",
+    "away_team": "West Ham United",
+    "score": "1 - 1",
+    "ht_score": "1 - 0",
+    "ft_score": "1 - 1",
+    "outcome": "X",
+    "stats": {
+      "possession": {
+        "home": 46,
+        "away": 54
+      },
+      "shots_on_target": {
+        "home": 4,
+        "away": 4
+      },
+      "shots_off_target": {
+        "home": 10,
+        "away": 10
+      },
+      "attempts_on_goal": {
+        "home": 14,
+        "away": 15
+      },
+      "shots_blocked": {
+        "home": 4,
+        "away": 6
+      },
+      "corners": {
+        "home": 4,
+        "away": 3
+      },
+      "offsides": {
+        "home": 2,
+        "away": 4
+      },
+      "yellow_cards": {
+        "home": 2,
+        "away": 3
+      },
+      "red_cards": {
+        "home": 0,
+        "away": 0
+      },
+      "fouls": {
+        "home": 13,
+        "away": 16
+      },
+      "saves": {
+        "home": 2,
+        "away": 3
+      },
+      "dangerous_attacks": {
+        "home": 45,
+        "away": 65
+      },
+      "attacks": {
+        "home": 88,
+        "away": 114
+      },
+      "penalties": {
+        "home": null,
+        "away": null
+      },
+      "substitutions": {
+        "home": 5,
+        "away": 4
+      },
+      "free_kicks": {
+        "home": 20,
+        "away": 15
+      },
+      "goal_kicks": {
+        "home": 11,
+        "away": 10
+      },
+      "throw_ins": {
+        "home": 19,
+        "away": 14
+      },
+      "treatments": {
+        "home": 6,
+        "away": 3
+      }
+    },
+    "odds": {
+      "1": 1.45,
+      "2": 6.25,
+      "X": 4.75
+    }
+  },
+  {
+    "match_id": 591181,
+    "fixture_id": 1699235,
+    "date": "2025-01-26",
+    "status": "FINISHED",
+    "competition": "Premier League",
+    "round": "23",
+    "venue": "Tottenham Hotspur Stadium",
+    "home_team": "Tottenham Hotspur",
+    "away_team": "Leicester City",
+    "score": "1 - 2",
+    "ht_score": "1 - 0",
+    "ft_score": "1 - 2",
+    "outcome": "2",
+    "stats": {
+      "possession": {
+        "home": 60,
+        "away": 40
+      },
+      "shots_on_target": {
+        "home": 6,
+        "away": 3
+      },
+      "shots_off_target": {
+        "home": 7,
+        "away": 9
+      },
+      "attempts_on_goal": {
+        "home": 15,
+        "away": 12
+      },
+      "shots_blocked": {
+        "home": 4,
+        "away": 7
+      },
+      "corners": {
+        "home": 6,
+        "away": 4
+      },
+      "offsides": {
+        "home": 5,
+        "away": 2
+      },
+      "yellow_cards": {
+        "home": 1,
+        "away": 5
+      },
+      "red_cards": {
+        "home": 0,
+        "away": 0
+      },
+      "fouls": {
+        "home": 7,
+        "away": 16
+      },
+      "saves": {
+        "home": 1,
+        "away": 5
+      },
+      "dangerous_attacks": {
+        "home": 56,
+        "away": 33
+      },
+      "attacks": {
+        "home": 113,
+        "away": 114
+      },
+      "penalties": {
+        "home": null,
+        "away": null
+      },
+      "substitutions": {
+        "home": 3,
+        "away": 5
+      },
+      "free_kicks": {
+        "home": 18,
+        "away": 12
+      },
+      "goal_kicks": {
+        "home": 4,
+        "away": 6
+      },
+      "throw_ins": {
+        "home": 19,
+        "away": 11
+      },
+      "treatments": {
+        "home": 0,
+        "away": 6
+      }
+    },
+    "odds": {
+      "1": 1.54,
+      "2": 5.8,
+      "X": 4.9
+    }
+  }
+]
